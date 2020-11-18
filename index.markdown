@@ -1,0 +1,45 @@
+---
+layout: page
+author_profile: true
+---
+
+<p>The Multi-Agent-Based Simulation (MABS) workshop is the twentieth of a <a href="http://www.pcs.usp.br/~mabs/">series that began in
+1998</a>. Its scientific focus lies in the confluence of social sciences and multi-agent
+systems, with a strong application/empirical vein, and its emphasis is stressed on (i) exploratory agent based
+simulation as a principled way of undertaking scientific research in the social sciences and (ii) using social
+theories as an inspiration to new frameworks and developments in multi-agent systems.
+</p>
+
+<p>
+The MABS workshop series continues with its goal to bring together researchers interested in MAS engineering, with researchers focused on finding efficient solutions to model complex social systems, in areas such as economics, management, organisational and social sciences in general. In all these areas, agent theories, metaphors, models, analysis, experimental designs, empirical studies, and methodological principles, all converge into simulation as a way of a) achieving explanations and predictions, b) conducting exploration and testing of hypotheses, c) investigating better designs and systems. 
+The range of technical issues that MABS has and continues to deal with is diverse and extensive, and includes:
+<li>
+	(i) Simulation methodology, e.g., Standards for MABS, Methodologies and simulation languages for MABS, Simulation platforms and tools for MABS, Visualisation and analytic tools, Scalability and robustness in MABS
+</li>
+<li>
+(ii) Simulation of social and intelligent behaviour, e.g., Formal and agent models of social behaviour, Cognitive modelling and simulation, Game theory and simulation, Social structure: social networks and simulating organisations, Simulating social complexity, e.g. structures and norms, social order, emergence of cooperation and coordinated action, self-organisation, self-regulation, and the micro-macro link
+</li>
+<li>
+(iii) Applications, e.g., MABS in environmental modelling, Agent-based experimental economics, Participatory simulation, MABS and games, MABS in governance and policy-making
+</li>
+Moreover, in this edition, we will encourage submissions that address the emerging area of simulation analytics, which involves the application of data analytics and machine learning methods to the analysis of large-scale simulations. This topic in important for developing an understanding of the outcomes of large simulations, and for gaining operational insights from simulations.
+</p>
+
+<p>
+The excellent quality level of this workshop has been recognized since its inception and its proceedings have
+been regularly published in Springer's Lecture Notes series. MABS 2021 will be hosted at <a href="https://https://aamas2021.soton.ac.uk//">AAMAS 2021, the 20th International
+Conference on Autonomous Agents and Multiagent Systems</a>, which will take place in London, UK, on May 3th-17th, 2021.
+</p>
+
+<h2>Important Dates:</h2>
+<ul>
+<li>Submission deadline: <b>February 5, 2020</b></li>
+<li>Extended Submission deadline: <b>February 12, 2020</b></li>
+<li>Notification of acceptance/rejection: March 10, 2020</li>
+<li>Camera-ready submission deadline: April 10, 2020</li>
+<li>Workshop dates: May 10, 2020; 11 am UTC</li>
+</ul>
+
+<p>
+For further information, please contact: mabs2021@easychair.com
+</p>

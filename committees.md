@@ -1,13 +1,13 @@
 ---
-layout: home
+layout: page
 title: "Committees"
 permalink: /committees/
 ---
 
 ## Program Chairs
+* [Koen H. Van Dam](https://www.imperial.ac.uk/people/k.van-dam) (Imperial College of London, UK)
+* [Nicolas Verstaevel](http://www.verstaevel.fr/) (University of Toulouse, France)
 
-* [Samarth Swarup](http://people.virginia.edu/~ss7rs) (University of Virginia, USA)
-* [Tony Savarimuthu](http://waitaki.otago.ac.nz/~tonyr/) (University of Otago, NZ)
 
 ## The MABS Steering Committee
 
@@ -20,6 +20,8 @@ permalink: /committees/
 * [Mario Paolucci](http://www.istc.cnr.it/people/mario-paolucci) (National Research Council, Italy)
 * [Jaime Simão Sichman](http://www.pcs.usp.br/~jaime/) (University of São Paulo, Brazil)
 * [Takao Terano](http://www.trn.dis.titech.ac.jp/GEAR/index.html) (Tokyo Institute of Technology, Japan)
+* [Samarth Swarup](http://people.virginia.edu/~ss7rs) (University of Virginia, USA)
+* [Tony Savarimuthu](http://waitaki.otago.ac.nz/~tonyr/) (University of Otago, NZ)
 
 ## Program Committee
 * Natalie Van Der Wal (Vrije Universiteit Amsterdam, Netherlands)
