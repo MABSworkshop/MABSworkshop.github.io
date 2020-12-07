@@ -34,7 +34,6 @@ Conference on Autonomous Agents and Multiagent Systems</a>, which will take plac
 <h2>Important Dates:</h2>
 <ul>
 <li>Submission deadline: <b>February 5, 2020</b></li>
-<li>Extended Submission deadline: <b>February 12, 2020</b></li>
 <li>Notification of acceptance/rejection: March 10, 2020</li>
 <li>Camera-ready submission deadline: April 10, 2020</li>
 <li>Workshop dates: May 10, 2020; 11 am UTC</li>
