@@ -5,10 +5,11 @@ permalink: /sumbit/
 ---
 
 ## Submission of papers
-Papers are limited to 12 pages formatted according to the Springer LNCS and must be electronically submitted before the submission deadline through the workshop conference system, which is available at: <a href="https://easychair.org/conferences/?conf=mabs2021"> https://easychair.org/conferences/?conf=mabs2021</a>
+Submissions are limited to 12 pages formatted according to the Springer LNCS and must be electronically submitted before the submission deadline through the workshop conference system, which is available at: https://easychair.org/conferences/?conf=mabs2021
 
+All contributions will be peer-reviewed by two or three independent PC members. The evaluation criteria of contributions will be based on originality, quality, clarity, and its relevance to the workshop.
 
-All contributions will be peer-reviewed by two or three independent PC members. The evaluation criteria of contributions will be based on originality, quality, clarity, and its relevance to the workshop’s aims.
+All accepted papers will be printed in the AAMAS workshop proceedings. In addition, following the tradition of the previous MABS workshops, we intend to publish the accepted papers, after a further reviewing process, in Springer-Verlag's Multi-Agent-Based Simulation book series, LNAI.
 
 ## Important dates 
 * Submission deadline: 5th of February 2021 
