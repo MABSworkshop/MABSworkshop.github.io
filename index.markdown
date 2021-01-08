@@ -11,7 +11,7 @@ theories as an inspiration to new frameworks and developments in multi-agent sys
 </p>
 
 <p>
-The MABS workshop series continues with its goal to bring together researchers interested in MAS engineering, with researchers focused on finding efficient solutions to model complex social systems, in areas such as economics, management, organisational and social sciences in general. In all these areas, agent theories, metaphors, models, analysis, experimental designs, empirical studies, and methodological principles, all converge into simulation as a way of a) achieving explanations and predictions, b) conducting exploration and testing of hypotheses, c) investigating better designs and systems. 
+The MABS workshop series continues with its goal to bring together researchers interested in MAS engineering, with researchers focused on finding efficient solutions to model complex social systems, in areas such as economics, management, organisational and social sciences in general. In all these areas, agent theories, metaphors, models, analysis, experimental designs, empirical studies, and methodological principles, all converge into simulation as a way of a) achieving explanations and predictions, b) conducting exploration and testing of hypotheses, c) investigating better designs and systems.
 The range of technical issues that MABS has and continues to deal with is diverse and extensive, and includes:
 <li>
 	(i) Simulation methodology, e.g., Standards for MABS, Methodologies and simulation languages for MABS, Simulation platforms and tools for MABS, Visualisation and analytic tools, Scalability and robustness in MABS
@@ -28,7 +28,7 @@ Moreover, in this edition, we will encourage submissions that address the emergi
 <p>
 The excellent quality level of this workshop has been recognized since its inception and its proceedings have
 been regularly published in Springer's Lecture Notes series. MABS 2021 will be hosted at <a href="https://https://aamas2021.soton.ac.uk//">AAMAS 2021, the 20th International
-Conference on Autonomous Agents and Multiagent Systems</a>, which will take place in London, UK, on May 3th-7th, 2021.
+Conference on Autonomous Agents and Multiagent Systems</a>, which will take place as a virtual event on May 3th-7th, 2021.
 </p>
 
 <h2>Important Dates:</h2>
