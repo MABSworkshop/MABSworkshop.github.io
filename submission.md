@@ -13,6 +13,6 @@ All accepted papers will be printed in the AAMAS workshop proceedings. In additi
 
 ## Important dates 
 * Submission deadline: 1st of March 2021 
-* Notification of acceptance/rejection: 10th of March 2021 
-* Camera-ready submission deadline: 10th of April 2021 
+* Notification of acceptance/rejection: 1st of April 2021 
+* Camera-ready submission deadline: 19th of April 2021 
 * Workshop dates: 3rd or 4th of May 2021 
