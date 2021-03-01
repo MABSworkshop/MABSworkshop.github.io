@@ -3,6 +3,10 @@ layout: page
 author_profile: true
 ---
 
+<p>
+<b>Note that the submission deadline has been extended until the 15th of March</b>
+</p>
+  
 <p>The Multi-Agent-Based Simulation (MABS) workshop is the twentieth of a <a href="http://www.pcs.usp.br/~mabs/">series that began in
 1998</a>. Its scientific focus lies in the confluence of social sciences and multi-agent
 systems, with a strong application/empirical vein, and its emphasis is stressed on (i) exploratory agent based
