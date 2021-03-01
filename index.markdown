@@ -37,7 +37,7 @@ Conference on Autonomous Agents and Multiagent Systems</a>, which will take plac
 
 <h2>Important Dates:</h2>
 <ul>
-<li>Submission deadline: <b>March 1st, 2021</b></li>
+<li><b>Extended</b> Submission deadline: <b>March 15th, 2021</b> (anywhere on Earth)</li>
 <li>Notification of acceptance/rejection: April 1st, 2021</li>
 <li>Camera-ready submission deadline: April 19th, 2021</li>
 <li>Workshop dates: May 3rd or 4th, 2021</li>
