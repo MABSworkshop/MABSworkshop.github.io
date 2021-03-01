@@ -12,7 +12,7 @@ All contributions will be peer-reviewed by two or three independent PC members. 
 All accepted papers will be printed in the AAMAS workshop proceedings. In addition, following the tradition of the previous MABS workshops, we intend to publish the accepted papers, after a further reviewing process, in Springer-Verlag's Multi-Agent-Based Simulation book series, LNAI.
 
 ## Important dates 
-* Submission deadline: 1st of March 2021 
+* **Extended** Submission deadline: ~~1st of March 2021~~ 15th of March 2021
 * Notification of acceptance/rejection: 1st of April 2021 
 * Camera-ready submission deadline: 19th of April 2021 
 * Workshop dates: 3rd or 4th of May 2021 
