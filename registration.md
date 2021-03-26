@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MABS Workshop Series"
+title: "Registration"
 permalink: /registration/
 ---
 
