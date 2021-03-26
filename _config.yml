@@ -33,7 +33,7 @@ header_pages:
   - program.md
   - committees.md
   - previousWorkshop.md
-  - registration
+  - registration.md
 # Build settings
 theme: minima
 plugins:
