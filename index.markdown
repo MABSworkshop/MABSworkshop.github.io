@@ -15,6 +15,10 @@ theories as an inspiration to new frameworks and developments in multi-agent sys
 </p>
 
 <p>
+  MABS2021 will take place online on the 4th of May 2021 between 10:00-18:00 BST.
+  </p>
+
+<p>
 The MABS workshop series continues with its goal to bring together researchers interested in MAS engineering, with researchers focused on finding efficient solutions to model complex social systems, in areas such as economics, management, organisational and social sciences in general. In all these areas, agent theories, metaphors, models, analysis, experimental designs, empirical studies, and methodological principles, all converge into simulation as a way of a) achieving explanations and predictions, b) conducting exploration and testing of hypotheses, c) investigating better designs and systems.
 The range of technical issues that MABS has and continues to deal with is diverse and extensive, and includes:
 <li>
@@ -40,7 +44,7 @@ Conference on Autonomous Agents and Multiagent Systems</a>, which will take plac
 <li><b>Extended</b> Submission deadline: <b>March 15th, 2021</b> (anywhere on Earth)</li>
 <li>Notification of acceptance/rejection: April 1st, 2021</li>
 <li>Camera-ready submission deadline: April 19th, 2021</li>
-<li>Workshop dates: May 3rd or 4th, 2021</li>
+<li>Workshop dates: May 4th, 2021 (online)</li>
 </ul>
 
 <p>
