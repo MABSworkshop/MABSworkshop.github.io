@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 <p>
-<b>Note that the submission deadline has been extended until the 15th of March</b>
+<b>Note: The schedule for MABS2021 will be made available shortly. Registration (free) is now open and is required to participate in the workshop.</b>
 </p>
   
 <p>The Multi-Agent-Based Simulation (MABS) workshop is the twentieth of a <a href="http://www.pcs.usp.br/~mabs/">series that began in
