@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 <p>
-<b>Note: The schedule for MABS2021 will be made available shortly. Registration (free) is now open and is required to participate in the workshop.</b>
+<b>Note: The schedule for MABS2021 is available in the schedle section. Registration (free) is now open and is required to participate in the workshop.</b>
 </p>
 
 <iframe src="https://discord.com/widget?id=830027802736721940&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
