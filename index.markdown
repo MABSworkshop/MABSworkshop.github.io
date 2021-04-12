@@ -6,6 +6,8 @@ author_profile: true
 <p>
 <b>Note: The schedule for MABS2021 will be made available shortly. Registration (free) is now open and is required to participate in the workshop.</b>
 </p>
+
+<iframe src="https://discord.com/widget?id=830027802736721940&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   
 <p>The Multi-Agent-Based Simulation (MABS) workshop is the twentieth of a <a href="http://www.pcs.usp.br/~mabs/">series that began in
 1998</a>. Its scientific focus lies in the confluence of social sciences and multi-agent
