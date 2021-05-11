@@ -4,7 +4,7 @@ title: "Accepted Papers"
 permalink: /accepted/
 ---
 
-The following 14 papers have been accepted for MABS2021, and have been invited to submit a camera ready version for the proceedings:
+The following 14 papers have been accepted for MABS2021. Authors been invited to submit a camera ready version for the proceedings to be published in the Lecture Notes in Computer Science book series by Springer (subject to final review).
 
 | Authors | Title |
 |-|-|
