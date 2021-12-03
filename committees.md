@@ -5,8 +5,8 @@ permalink: /committees/
 ---
 
 ## Program Chairs
-* [Koen H. Van Dam](https://www.imperial.ac.uk/people/k.van-dam) (Imperial College of London, UK)
-* [Nicolas Verstaevel](http://www.verstaevel.fr/) (University of Toulouse, France)
+* [Fabian Lorig](https://www.imperial.ac.uk/people/k.van-dam) (Malmö University, Sweden)
+* [Emma Norling](https://www.sheffield.ac.uk/dcs/people/academic/emma-norling) (University of Sheffield, UK)
 
 
 ## The MABS Steering Committee
@@ -14,7 +14,7 @@ permalink: /committees/
 * [Frédéric Amblard](http://simsoc.free.fr/) (University of Toulouse, France)
 * [Luis Antunes](http://www.di.fc.ul.pt/~xarax/) (University of Lisbon, Portugal)
 * [Paul Davidsson](http://forskning.mah.se/en/id/ctpada) (Malmö University, Sweden)
-* [Emma Norling](http://www2.docm.mmu.ac.uk/STAFF/E.Norling/) (Manchester Metropolitan University, UK)
+* [Emma Norling](https://www.sheffield.ac.uk/dcs/people/academic/emma-norling) (University of Sheffield, UK)
 * [Mario Paolucci](http://www.istc.cnr.it/people/mario-paolucci) (National Research Council, Italy)
 * [Jaime Simão Sichman](http://www.pcs.usp.br/~jaime/) (University of São Paulo, Brazil)
 * [Samarth Swarup](http://people.virginia.edu/~ss7rs) (University of Virginia, USA)
