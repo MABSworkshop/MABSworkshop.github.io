@@ -26,6 +26,3 @@ Conference on Autonomous Agents and Multiagent Systems</a>, which will take plac
   <li><b>coming soon</b> </li>
 </ul>
 
-<p>
-For further information, please contact: 
-</p>
