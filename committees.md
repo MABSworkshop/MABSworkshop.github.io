@@ -5,7 +5,7 @@ permalink: /committees/
 ---
 
 ## Program Chairs
-* [Fabian Lorig](https://www.imperial.ac.uk/people/k.van-dam) (Malmö University, Sweden)
+* [Fabian Lorig](https://mau.se/en/persons/fabian.lorig/) (Malmö University, Sweden)
 * [Emma Norling](https://www.sheffield.ac.uk/dcs/people/academic/emma-norling) (University of Sheffield, UK)
 
 
