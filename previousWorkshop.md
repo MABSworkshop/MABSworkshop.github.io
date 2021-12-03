@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "MABS Workshop Series"
+title: "MABS Series"
 permalink: /mabs_workshop_series/
 ---
 
