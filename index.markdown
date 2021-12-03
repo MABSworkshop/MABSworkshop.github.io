@@ -23,7 +23,7 @@ Conference on Autonomous Agents and Multiagent Systems</a>, which will take plac
 
 <h2>Important Dates:</h2>
 <ul>
-<li><b>coming soon</b> 
+  <li><b>coming soon</b> </li>
 </ul>
 
 <p>
