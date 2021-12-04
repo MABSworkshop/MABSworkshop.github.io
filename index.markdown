@@ -17,7 +17,7 @@ The excellent quality level of this workshop has been recognized since its incep
 been regularly published in Springer's Lecture Notes series. MABS 2022 will be hosted at <a href="https://aamas2022-conference.auckland.ac.nz/calls/call-for-workshops/">AAMAS 2022, the 21st International Conference on Autonomous Agents and Multiagent Systems</a>, which will take place in Auckland, New Zealand on May 9-13, 2022.
 </p>
 
-<h2>Important Dates:</h2>
+<h2>Important Dates</h2>
 <ul>
   <li>Submission deadline: Jan 30, 2022 </li>
   <li>Notification of acceptance or rejection: Feb 27, 2022 </li>
