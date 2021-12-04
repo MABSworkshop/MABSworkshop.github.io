@@ -29,7 +29,7 @@ been regularly published in Springer's Lecture Notes series. MABS 2022 will be h
 
 For further information, please contact: [mabs2022@easychair.org](mailto:mabs2022@easychair.org)
 
-<h2>The Program chairs</h2>
+<h2>Program chairs</h2>
 
 <p>
 Fabian Lorig and Emma Norling
