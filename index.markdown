@@ -27,10 +27,12 @@ been regularly published in Springer's Lecture Notes series. MABS 2022 will be h
   <li>Preparation of post-proceedings (Springer LNAI): 2nd half of 2022 </li>
 </ul>
 
-For further information, please contact: [mabs2022@easychair.org](mailto:mabs2022@easychair.org)
-
 <h2>Program chairs</h2>
 
 <p>
 Fabian Lorig and Emma Norling
+</p>
+
+<p>
+For further information, please contact: [mabs2022@easychair.org](mailto:mabs2022@easychair.org)  
 </p>
