@@ -3,16 +3,13 @@ layout: page
 author_profile: true
 ---
 
+<h2>MABS2022 will take place on May 9-10 2021</h2>
   
 <p>The 2022 Multi-Agent-Based Simulation (MABS) workshop is the 23rd of a <a href="http://www.pcs.usp.br/~mabs/">series that began in
 1998</a>. Its scientific focus lies in the confluence of social sciences and multi-agent
 systems, with a strong application/empirical vein, and its emphasis is stressed on (i) exploratory agent based
 simulation as a principled way of undertaking scientific research in the social sciences and (ii) using social
 theories as an inspiration to new frameworks and developments in multi-agent systems.
-</p>
-
-<p>
-  MABS2022 will take place on May 9-10 2021.
 </p>
 
 <p>
@@ -33,5 +30,7 @@ been regularly published in Springer's Lecture Notes series. MABS 2022 will be h
 For further information, please contact: [mabs2022@easychair.org](mailto:mabs2022@easychair.org)
 
 <h2>The Program chairs</h2>
-Fabian Lorig
-Emma Norling
+
+<p>
+Fabian Lorig and Emma Norling
+</p>
