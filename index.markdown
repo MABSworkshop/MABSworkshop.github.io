@@ -26,3 +26,4 @@ Conference on Autonomous Agents and Multiagent Systems</a>, which will take plac
   <li><b>coming soon</b> </li>
 </ul>
 
+For further information, please contact: [mabs2022@easychair.org](mailto:mabs2022@easychair.org)
