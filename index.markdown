@@ -34,5 +34,5 @@ Fabian Lorig and Emma Norling
 </p>
 
 <p>
-For further information, please contact: [mabs2022@easychair.org](mailto:mabs2022@easychair.org)  
+For further information, please contact: <a href="mailto:mabs2022@easychair.org">mabs2022@easychair.org</a>  
 </p>
