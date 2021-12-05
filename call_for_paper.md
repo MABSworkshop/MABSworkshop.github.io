@@ -27,7 +27,6 @@ The range of technical issues that MABS has dealt with, and continues to deal wi
 <li> Future challenges in MABS </li>
 </ul>
 
-</br>
 <li> Simulation of Social and Intelligent behaviour  </li>
 <ul>
 <li> Formal and agent models of social behaviour </li>
@@ -37,7 +36,6 @@ The range of technical issues that MABS has dealt with, and continues to deal wi
 <li> Simulating social complexity (e.g. structures and norms, social order, emergence of cooperation and coordinated action, self-organisation, the micro-macro link) </li>
 </ul>
 
-</br>
 <li> Applications and Empirical Work  </li>
 
 <ul>
@@ -49,7 +47,6 @@ The range of technical issues that MABS has dealt with, and continues to deal wi
 <li> MABS in governance and policy-making </li>
 </ul>
 
-</br>
 <li> Simulation Analytics </li>
 
 <ul>
