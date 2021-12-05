@@ -70,12 +70,12 @@ The workshop will be of interest to researchers engaged in modelling and analysi
 
 MABS intends to be a place where researchers can exchange ideas about their work and we are looking forward to the community meeting once again in person. At the same time, we are also planning for the possibility that the global public health situation might require us to run the workshop as a partly or fully virtual event. In such a context, we will adapt the program and provide the tools so that researchers from all around the world can participate to the event. Even in an online workshop we will endeavor to create the space for informal exchange of ideas and to get to know each other, for example in panel discussions or digital break-out rooms on topics identified during the workshop by the participants
 
-## Submission of Papers
-Submissions are limited to 12 pages formatted according to the Springer LNCS style and must be electronically submitted before the submission deadline through the workshop conference system, which is available at: https://easychair.org/conferences/?conf=mabs2022
+## Submission of Papers (Deadline: Jan 30, 2022)
+Submissions are limited to 12 pages formatted according to the Springer LNCS style and must be electronically submitted before the submission deadline through the workshop conference system, which is available at: <a href="https://easychair.org/conferences/?conf=mabs2022">https://easychair.org/conferences/?conf=mabs2022</a>
 
 All contributions will be peer-reviewed by two or three independent PC members. The evaluation criteria of contributions will be based on originality, quality, clarity, and its relevance to the workshop.
 
 All accepted papers will be printed in the AAMAS workshop proceedings. In addition, following the tradition of the previous MABS workshops, we intend to publish the accepted papers, after a further reviewing process, in the Springer Multi-Agent-Based Simulation book series, LNAI.
 
 ## Contact
-For any questions related to the workshop, please email mabs2022@easychair.org. 
+For any questions related to the workshop, please email <a href="mailto:mabs2022@easychair.org">mabs2022@easychair.org</a>. 
