@@ -12,7 +12,7 @@ In all these areas, agent theories, metaphors, models, analysis, experimental de
 
 
 ## Relevant topics
-The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive. Topics relevant to this workshop include, but are not limited to, the following: 
+The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive. Topics relevant to this workshop include, but are not limited to: 
 
 <ul>
 <li> Simulation methodologies </li>
