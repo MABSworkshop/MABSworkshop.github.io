@@ -10,9 +10,11 @@ The meeting of researchers from Multi-Agent Systems (MAS) engineering and resear
 
 In all these areas, agent theories, metaphors, models, analysis, experimental designs, empirical studies, and methodological principles, all converge into simulation as a way of achieving explanations and predictions, conducting exploration and testing of hypotheses, as well as investigating better designs and systems. 
 
+We welcome your paper submissions from all areas of multi-agent-based simulation and particularly also of work in early stages, which can benefit from active discussions!
+
 
 ## Relevant topics
-The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive. Topics relevant to this workshop include, but are not limited to: 
+The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive. Topics relevant to this workshop include, but are not limited to, the following: 
 
 <ul>
 <li> Simulation methodologies </li>
@@ -28,6 +30,7 @@ The range of technical issues that MABS has dealt with, and continues to deal wi
 </ul>
 
 <li> Simulation of Social and Intelligent behaviour  </li>
+
 <ul>
 <li> Formal and agent models of social behaviour </li>
 <li> Cognitive modelling and simulation </li>
