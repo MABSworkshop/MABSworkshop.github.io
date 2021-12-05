@@ -37,6 +37,8 @@ The range of technical issues that MABS has dealt with, and continues to deal wi
 <li> Simulating social complexity (e.g. structures and norms, social order, emergence of cooperation and coordinated action, self-organisation, the micro-macro link) </li>
 </ul>
 
+</br>
+  
 <li> Applications and Empirical Work  </li>
 
 <ul>
