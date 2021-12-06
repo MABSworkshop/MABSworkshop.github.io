@@ -12,16 +12,6 @@ The meeting of researchers from Multi-Agent Systems (MAS) engineering and resear
 In all these areas, agent theories, metaphors, models, analysis, experimental designs, empirical studies, and methodological principles, all converge into simulation as a way of achieving explanations and predictions, conducting exploration and testing of hypotheses, as well as investigating better designs and systems. 
 
 We welcome your paper submissions from all areas of multi-agent-based simulation and particularly also of work in early stages, which can benefit from active discussions!
-
-## Important Dates
-<ul>
-<li>Submission deadline: Jan 30, 2022</li>
-<li>Notification of acceptance or rejection: Feb 27, 2022</li>
-<li>Camera ready versions: Mar 6, 2022</li>
-<li>Preliminary program will be published: Mar 20, 2022</li>
-<li>MABS 2022 will take place: May 9-10, 2022v
-<li>Preparation of post-proceedings (Springer LNAI): 2nd half of 2022</li>
-</ul>
   
 ## Relevant topics
 The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive. Topics relevant to this workshop include, but are not limited to, the following: 
@@ -86,6 +76,16 @@ Submissions are limited to 12 pages formatted according to the Springer LNCS sty
 All contributions will be peer-reviewed by two or three independent PC members. The evaluation criteria of contributions will be based on originality, quality, clarity, and its relevance to the workshop.
 
 All accepted papers will be printed in the AAMAS workshop proceedings. In addition, following the tradition of the previous MABS workshops, we intend to publish the accepted papers, after a further reviewing process, in the Springer Multi-Agent-Based Simulation book series, LNAI.
+
+## Important Dates
+<ul>
+<li>Submission deadline: Jan 30, 2022</li>
+<li>Notification of acceptance or rejection: Feb 27, 2022</li>
+<li>Camera ready versions: Mar 6, 2022</li>
+<li>Preliminary program will be published: Mar 20, 2022</li>
+<li>MABS 2022 will take place: May 9-10, 2022v
+<li>Preparation of post-proceedings (Springer LNAI): 2nd half of 2022</li>
+</ul>
 
 ## Contact
 For any questions related to the workshop, please email <a href="mailto:mabs2022@easychair.org">mabs2022@easychair.org</a>. 
