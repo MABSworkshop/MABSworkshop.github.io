@@ -4,6 +4,7 @@ title: "Call for papers"
 permalink: /cfp/
 ---
 
+
 MABS 2022 is part of the AAMAS 2022 conference taking place in Auckland, New Zealand on May 9-13, 2022. 
 
 The meeting of researchers from Multi-Agent Systems (MAS) engineering and researchers from the social, economic, and organisational sciences is extensively recognised for its role in cross-fertilisation. It has undoubtedly been an important source of inspiration for the body of knowledge that has been produced in the area. The MABS workshop series continues with its goal to bring together researchers interested in MAS engineering, with researchers focused on finding efficient solutions to model complex social systems, in areas such as economics, management, organisational and social sciences in general. 
@@ -12,6 +13,14 @@ In all these areas, agent theories, metaphors, models, analysis, experimental de
 
 We welcome your paper submissions from all areas of multi-agent-based simulation and particularly also of work in early stages, which can benefit from active discussions!
 
+## Important Dates
+Important Dates
+Submission deadline: Jan 30, 2022
+Notification of acceptance or rejection: Feb 27, 2022
+Camera ready versions: Mar 6, 2022
+Preliminary program will be published: Mar 20, 2022
+MABS 2022 will take place: May 9-10, 2022
+Preparation of post-proceedings (Springer LNAI): 2nd half of 2022
 
 ## Relevant topics
 The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive. Topics relevant to this workshop include, but are not limited to, the following: 
