@@ -14,14 +14,15 @@ In all these areas, agent theories, metaphors, models, analysis, experimental de
 We welcome your paper submissions from all areas of multi-agent-based simulation and particularly also of work in early stages, which can benefit from active discussions!
 
 ## Important Dates
-Important Dates
-Submission deadline: Jan 30, 2022
-Notification of acceptance or rejection: Feb 27, 2022
-Camera ready versions: Mar 6, 2022
-Preliminary program will be published: Mar 20, 2022
-MABS 2022 will take place: May 9-10, 2022
-Preparation of post-proceedings (Springer LNAI): 2nd half of 2022
-
+<ul>
+<li>Submission deadline: Jan 30, 2022</li>
+<li>Notification of acceptance or rejection: Feb 27, 2022</li>
+<li>Camera ready versions: Mar 6, 2022</li>
+<li>Preliminary program will be published: Mar 20, 2022</li>
+<li>MABS 2022 will take place: May 9-10, 2022v
+<li>Preparation of post-proceedings (Springer LNAI): 2nd half of 2022</li>
+</ul>
+  
 ## Relevant topics
 The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive. Topics relevant to this workshop include, but are not limited to, the following: 
 
