@@ -3,7 +3,7 @@ layout: page
 author_profile: true
 ---
 
-##MABS2022 will take place on May 9-10, 2022 (Auckland, New Zealand)
+<h2>MABS2022 will take place on May 9-10, 2022 (Auckland, New Zealand)</h2>
   
 <p>The 2022 Multi-Agent-Based Simulation (MABS) workshop is the 23rd of a <a href="http://www.pcs.usp.br/~mabs/">series that began in
 1998</a>. Its scientific focus lies in the confluence of social sciences and multi-agent
@@ -20,13 +20,14 @@ been regularly published in Springer's Lecture Notes series. MABS 2022 will be h
 <p>The CFP is out now: <a href="https://easychair.org/cfp/MABS2022">https://easychair.org/cfp/MABS2022</a>!</p>
 
 <h2>Important Dates</h2>
-- **Submission deadline: ~~Jan 30, 2022~~ extended to Feb 6, 2022**
-- Notification of acceptance or rejection: Feb 27, 2022 
-- Camera ready versions: Mar 6, 2022 
-- Preliminary program will be published: Mar 20, 2022 
-- MABS 2022 will take place: May 9-10, 2022
-- Preparation of post-proceedings (Springer LNAI): 2nd half of 2022 
-
+<ul>
+  <li><b>Submission deadline: <s>Jan 30, 2022</s> extended to Feb 6, 2022</b></li>
+  <li>Notification of acceptance or rejection: Feb 27, 2022 </li>
+  <li>Camera ready versions: Mar 6, 2022 </li>
+  <li>Preliminary program will be published: Mar 20, 2022 </li>
+  <li>MABS 2022 will take place: May 9-10, 2022</li>
+  <li>Preparation of post-proceedings (Springer LNAI): 2nd half of 2022 </li>
+</ul>
 <h2>Program chairs</h2>
 
 <p>
