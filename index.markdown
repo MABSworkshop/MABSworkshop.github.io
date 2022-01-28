@@ -20,14 +20,12 @@ been regularly published in Springer's Lecture Notes series. MABS 2022 will be h
 <p>The CFP is out now: <a href="https://easychair.org/cfp/MABS2022">https://easychair.org/cfp/MABS2022</a>!</p>
 
 <h2>Important Dates</h2>
-<ul>
-  <li><b>Submission deadline: Jan 30, 2022</b></li>
-  <li>Notification of acceptance or rejection: Feb 27, 2022 </li>
-  <li>Camera ready versions: Mar 6, 2022 </li>
-  <li>Preliminary program will be published: Mar 20, 2022 </li>
-  <li>MABS 2022 will take place: May 9-10, 2022</li>
-  <li>Preparation of post-proceedings (Springer LNAI): 2nd half of 2022 </li>
-</ul>
+- **Submission deadline: ~~Jan 30, 2022~~ extended to Feb 6, 2022**
+- Notification of acceptance or rejection: Feb 27, 2022 
+- Camera ready versions: Mar 6, 2022 
+- Preliminary program will be published: Mar 20, 2022 
+- MABS 2022 will take place: May 9-10, 2022
+- Preparation of post-proceedings (Springer LNAI): 2nd half of 2022 
 
 <h2>Program chairs</h2>
 
