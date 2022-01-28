@@ -3,7 +3,7 @@ layout: page
 author_profile: true
 ---
 
-<h2>MABS2022 will take place on May 9-10, 2022 (Auckland, New Zealand)</h2>
+##MABS2022 will take place on May 9-10, 2022 (Auckland, New Zealand)
   
 <p>The 2022 Multi-Agent-Based Simulation (MABS) workshop is the 23rd of a <a href="http://www.pcs.usp.br/~mabs/">series that began in
 1998</a>. Its scientific focus lies in the confluence of social sciences and multi-agent
