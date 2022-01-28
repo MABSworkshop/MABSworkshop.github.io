@@ -77,14 +77,6 @@ All contributions will be peer-reviewed by two or three independent PC members. 
 All accepted papers will be printed in the AAMAS workshop proceedings. In addition, following the tradition of the previous MABS workshops, we intend to publish the accepted papers, after a further reviewing process, in the Springer Multi-Agent-Based Simulation book series, LNAI.
 
 ## Important Dates
-<ul>
-<li>Submission deadline: ~~Jan 30, 2022~~ (**extended deadline: Feb 6, 2022**)</li>
-<li>Notification of acceptance or rejection: Feb 27, 2022</li>
-<li>Camera ready versions: Mar 6, 2022</li>
-<li>Preliminary program will be published: Mar 20, 2022</li>
-<li>MABS 2022 will take place: May 9-10, 2022</li>
-<li>Preparation of post-proceedings (Springer LNAI): 2nd half of 2022</li>
-</ul>
 
 - Submission deadline: ~~Jan 30, 2022~~ (**extended deadline: Feb 6, 2022**)</li>
 - Notification of acceptance or rejection: Feb 27, 2022</li>
