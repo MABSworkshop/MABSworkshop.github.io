@@ -85,6 +85,5 @@ All accepted papers will be printed in the AAMAS workshop proceedings. In additi
 - MABS 2022 will take place: May 9-10, 2022
 - Preparation of post-proceedings (Springer LNAI): 2nd half of 2022
 
-
 ## Contact
 For any questions related to the workshop, please email <a href="mailto:mabs2022@easychair.org">mabs2022@easychair.org</a>. 
