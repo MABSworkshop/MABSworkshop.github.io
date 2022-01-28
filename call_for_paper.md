@@ -78,12 +78,12 @@ All accepted papers will be printed in the AAMAS workshop proceedings. In additi
 
 ## Important Dates
 
-- Submission deadline: ~~Jan 30, 2022~~ (**extended deadline: Feb 6, 2022**)</li>
-- Notification of acceptance or rejection: Feb 27, 2022</li>
-- Camera ready versions: Mar 6, 2022</li>
-- Preliminary program will be published: Mar 20, 2022</li>
-- MABS 2022 will take place: May 9-10, 2022</li>
-- Preparation of post-proceedings (Springer LNAI): 2nd half of 2022</li>
+- Submission deadline: ~~Jan 30, 2022~~ (**extended to Feb 6, 2022**)
+- Notification of acceptance or rejection: Feb 27, 2022
+- Camera ready versions: Mar 6, 2022
+- Preliminary program will be published: Mar 20, 2022
+- MABS 2022 will take place: May 9-10, 2022
+- Preparation of post-proceedings (Springer LNAI): 2nd half of 2022
 
 
 ## Contact
