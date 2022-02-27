@@ -22,7 +22,7 @@ been regularly published in Springer's Lecture Notes series. MABS 2022 will be h
 <h2>Important Dates</h2>
 <ul>
   <li>Submission deadline: Jan 30, 2022 <b>(submission closed)</b></li>
-  <li>Notification of acceptance or rejection: Feb 27, 2022 </li>
+  <li>Notification of acceptance or rejection: Feb 28, 2022 </li>
   <li>Camera ready versions: Mar 6, 2022 </li>
   <li>Preliminary program will be published: Mar 20, 2022 </li>
   <li>MABS 2022 will take place: May 9-10, 2022</li>
