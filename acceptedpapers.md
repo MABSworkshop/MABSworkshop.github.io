@@ -7,6 +7,7 @@ permalink: /accepted/
 The following 11 papers have been accepted for MABS2022. Authors been invited to submit a camera ready version for the proceedings to be published in the Lecture Notes in Computer Science book series by Springer (subject to final review).
 
 | Authors | Title |
+|-|-|
 | Bruna Leitzke and Diana Adamatti | Land use management using Multi-Agent Based Simulation in a watershed in south of the Brazil |
 | Yu Yamashita, Shunki Takami, Shusuke Shigenaka, Masaki Onishi and Atsuyuki Morishima | Replacing Method for Multi-Agent Crowd Simulation by Convolutional Neural Network |
 | Martin Barrenechea and José Clementino | An agent-based model of horizontal mergers |
