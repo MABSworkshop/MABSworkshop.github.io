@@ -16,6 +16,7 @@ For convenience, all published times are UTC. There is a 13-hour break between t
 | 16:30 | Session 2 |
 
 | 07:00 - 10:00 | Part 2 (Monday, May 9, UTC) |
+|-|-| 
 | 07:00 | Session 3 |
 | 08:00 | Coffee Break |
 | 08:10 | Session 4 |
