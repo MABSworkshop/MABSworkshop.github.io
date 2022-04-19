@@ -24,3 +24,24 @@ For convenience, all published times are UTC. There is a 13-hour break between t
 | 09:20 | Panel Disussion and Closing Session |
 
 
+<table id="verticalalign">
+    <caption>MABS – Part 1 (Sunday, May 8, 15:00 – 18:00 UTC)</caption>
+    <thead>
+        <tr>
+            <th>15:00 - 18:00 (UTC)</th>
+            <th>Part 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left" valign="top">15:00</td>
+            <td align="right" valign="top">Session 1 <br/>
+                                          <b>Invited Talk: Cognitive agents for policy making in the covid crisis?</b><br/>
+                                          <i>Frank Dignum</i><br/>
+                                          <br/>
+                                          <b>School’s Out? Simulating Schooling Strategies During COVID-19</b><br/>
+                                          <i>Lukas Tapp, Veronika Kurchyna, Jan Ole Berndt and Ingo J. Timm</i></td>
+        </tr>
+        
+    </tbody>
+</table>
