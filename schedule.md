@@ -8,6 +8,7 @@ Detailed Program
 
 For convenience, all published times are UTC
 
+| Authors | Title |
 |-|-|
 | 15:00 - 18:00 | Part 1 (Sunday, May 8, UTC) |
 | 15:00 | Welcome and Opening |
