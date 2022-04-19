@@ -25,7 +25,6 @@ For convenience, all published times are UTC. There is a 13-hour break between t
 
 
 <table id="verticalalign">
-
     <thead>
         <tr>
             <th colspan="2">MABS – Part 1 (Sunday, May 8, 15:00 – 18:00 UTC)</th>
@@ -60,6 +59,5 @@ For convenience, all published times are UTC. There is a 13-hour break between t
                                           <b>Simulating Work Teams using MBTI agents</b><br/>
                                           <i>Luiz Braz, Jaime Sichman and Cristina Maria D Antona Bachert</i></td>
         </tr>
-        
     </tbody>
 </table>
