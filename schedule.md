@@ -15,6 +15,10 @@ For convenience, all published times are UTC. There is a 13-hour break between t
     <tbody>
         <tr>
             <td align="left" valign="top">15:00</td>
+            <td align="left" valign="top">Welcome and Opening!</td>
+        </tr>
+        <tr>
+            <td align="left" valign="top">15:10</td>
             <td align="left" valign="top">Session 1 <br/>
                                           <b>Invited Talk: Cognitive agents for policy making in the covid crisis?</b><br/>
                                           <i>Frank Dignum</i><br/>
@@ -45,7 +49,7 @@ For convenience, all published times are UTC. There is a 13-hour break between t
 </table>
 
 
-
+There is a 13-hour break between the first and the second part of MABS.
 
 
 <table id="mabs_part1">
