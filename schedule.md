@@ -14,8 +14,7 @@ For convenience, all published times are UTC. There is a 13-hour break between t
 | 15:10 | Session 1 |
 | 16:20 | Coffee Break |
 | 16:30 | Session 2 |
-
-x
+|-|-| 
 
 | 07:00 - 10:00 (UTC)|Part 2 (Monday, May 9) |
 |-|-| 
@@ -24,3 +23,4 @@ x
 | 08:10 | Session 4 |
 | 09:10 | Coffee Break |
 | 09:20 | Panel Disussion and Closing Session |
+|-|-| 
