@@ -24,29 +24,3 @@ For convenience, all published times are UTC. There is a 13-hour break between t
 | 09:20 | Panel Disussion and Closing Session |
 
 
-
-<table id="verticalalign">
-    <caption>vertical-align</caption>
-    <thead>
-        <tr>
-            <th></th>
-            <th>top</th>
-            <th>middle</th>
-            <th>bottom</th>
-            <th>top-right</th>
-            <th>middle-right</th>
-            <th>bottom-right</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">te<br>st</td>
-            <td align="left" valign="top">x</td>
-            <td align="left" valign="middle">x</td>
-            <td align="left" valign="bottom">x</td>
-            <td align="right" valign="top">x</td>
-            <td align="right" valign="middle">x</td>
-            <td align="right" valign="bottom">x</td>
-        </tr>
-    </tbody>
-</table>
