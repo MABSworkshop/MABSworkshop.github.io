@@ -9,7 +9,7 @@ Detailed Program
 For convenience, all published times are UTC
 
 |-|-|
-|15:00 - 18:00|Part 1 (Sunday, May 8, UTC)|
+|15:00 - 18:00 | Part 1 (Sunday, May 8, UTC)|
 |15:00|Welcome and Opening|
 |15:10|Session 1|
 |16:20|Coffee Break|
