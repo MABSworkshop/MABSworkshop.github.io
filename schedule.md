@@ -25,22 +25,40 @@ For convenience, all published times are UTC. There is a 13-hour break between t
 
 
 <table id="verticalalign">
-    <caption>MABS – Part 1 (Sunday, May 8, 15:00 – 18:00 UTC)</caption>
+
     <thead>
         <tr>
-            <th>15:00 - 18:00 (UTC)</th>
-            <th>Part 1</th>
+            <th colspan="2">MABS – Part 1 (Sunday, May 8, 15:00 – 18:00 UTC)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td align="left" valign="top">15:00</td>
-            <td align="right" valign="top">Session 1 <br/>
+            <td align="left" valign="top">Session 1 <br/>
                                           <b>Invited Talk: Cognitive agents for policy making in the covid crisis?</b><br/>
                                           <i>Frank Dignum</i><br/>
                                           <br/>
                                           <b>School’s Out? Simulating Schooling Strategies During COVID-19</b><br/>
                                           <i>Lukas Tapp, Veronika Kurchyna, Jan Ole Berndt and Ingo J. Timm</i></td>
+        </tr>
+        <tr>
+            <td align="left" valign="top">16:20</td>
+            <td align="left" valign="top"><i>Coffee Break/i></td>
+        </tr>
+        <tr>
+            <td align="left" valign="top">16:30</td>
+            <td align="left" valign="top">Session 2 <br/>
+                                          <b>Agents dealing with Norms and Regulations</b><br/>
+                                          <i>Christian Kammler, René Mellema and Frank Dignum</i><br/>
+                                          <br/>
+                                          <b>Land use management using Multi-Agent Based Simulation in a watershed in south of the Brazil</b><br/>
+                                          <i>Bruna Leitzke and Diana Adamatti</i><br/>
+                                          <br/>
+                                          <b>An agent-based model of horizontal mergers</b><br/>
+                                          <i>Martin Barrenechea and José Clementino</i><br/>
+                                          <br/>
+                                          <b>Simulating Work Teams using MBTI agents</b><br/>
+                                          <i>Luiz Braz, Jaime Sichman and Cristina Maria D Antona Bachert</i></td>
         </tr>
         
     </tbody>
