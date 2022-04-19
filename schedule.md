@@ -11,7 +11,7 @@ For convenience, all published times are UTC. There is a 13-hour break between t
 |15:00 - 18:00 (UTC)|Part 1 (Sunday, May 8)|
 |-|-| 
 | 15:00 | Welcome and Opening |
-| 15:10 | Session 1 |
+| 15:10 | Session 1 </br> test |
 | 16:20 | Coffee Break |
 | 16:30 | Session 2 |
 
