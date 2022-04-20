@@ -4,11 +4,11 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-AAMAS is hosted in Auckland, New Zealand, but will take place as an online event via **zoom**. Therefore, the schedule might be inconvenient for some time zones. We decided to split up the workshop in two parts with a 13-hour break in-between, such that at least one of the two slots will not be during nighttime for all participants. Please note that the first part of MABS takes place on the afternoon of Sunday, May 8, for some time zones. All times are in 24-hour notation and please do not hesitate to contact us in case you have any questions regarding the organization of MABS 2022.
+AAMAS is hosted in Auckland, New Zealand, but will take place as an online event via **zoom**. Therefore, the schedule might be inconvenient for some time zones. We decided to split up the workshop in two parts with a 13-hour break in-between, such that at least one of the two slots will not be during nighttime for all participants. Please note that the first part of MABS takes place on the afternoon of Sunday, May 8, for some time zones. Please do not hesitate to contact us in case you have any questions regarding the organization of MABS 2022.
 
 We are looking forward to your participation!
 
-For convenience, all published times are UTC. 
+For convenience, all published times are UTC and 24-hour notation. 
 
 <table id="mabs_part1">
     <thead>
@@ -50,7 +50,7 @@ For convenience, all published times are UTC.
                                           <i>Luiz Braz, Jaime Sichman and Cristina Maria D Antona Bachert</i></td>
         </tr>
         <tr>
-          <td colspan="2" style="text-align:center">There is a 13-hour break between the first and the second part of MABS.</td>
+          <td colspan="2" style="text-align:center"><i>There is a 13-hour break between the first and the second part of MABS.</i></td>
         </tr>
         <tr>
           <td colspan="2" style="text-align:center"><b>MABS – Part 2 (Monday, May 9, 07:00 – 10:00 UTC)</b></td>
@@ -62,7 +62,7 @@ For convenience, all published times are UTC.
                                           <i>Yu Yamashita, Shunki Takami, Shusuke Shigenaka, Masaki Onishi and Atsuyuki Morishima</i><br/>
                                           <br/>
                                           <b>The influence of national culture on evacuation response behaviour and time: An agent-based approach</b><br/>
-                                          <i>Elvira Van Damme, Natalie van der Wal, Gert Jan Hofstede and Frances Brazier</i>
+                                          <i>Elvira Van Damme, Natalie van der Wal, Gert Jan Hofstede and Frances Brazier</i><br/>
                                           <br/>
                                           <b>Reconsidering an Agent-Based Model of Food Web Evolution</b><br/>
                                           <i>Samuel Armstrong and Emma Norling</i></td>
