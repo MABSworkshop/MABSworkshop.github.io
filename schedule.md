@@ -52,7 +52,7 @@ For convenience, all published times are UTC. There is a 13-hour break between t
 There is a 13-hour break between the first and the second part of MABS.
 
 
-<table id="mabs_part1">
+<table id="mabs_part2">
     <thead>
         <tr>
             <th colspan="2">MABS – Part 2 (Monday, May 9, 07:00 – 10:00 UTC)</th>
@@ -94,6 +94,54 @@ There is a 13-hour break between the first and the second part of MABS.
         <tr>
             <td align="left" valign="top">09:20</td>
             <td align="left" valign="top"><i>Panel discussion and Closing session</i></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table id="mabs_timezones">
+    <thead>
+        <tr>
+            <th>Time zone</th>
+            <th>Part 1</th>
+            <th>Part 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Auckland, New Zealand<br/>(UTC+12)</td>
+            <td>Monday, May 9<br/>3:00 – 6:00</td>
+            <td>Monday, May 9<br/>19:00 – 22:00</td>
+        </tr>
+        <tr>
+            <td>Tokyo, Japan<br/>(UTC+9)</td>
+            <td>Monday, May 9<br/>0:00 – 3:00</td>
+            <td>Monday, May 9<br/>16:00 – 19:00</td>
+        </tr>
+        <tr>
+            <td>Stockholm, Sweden<br/>(UTC+2)</td>
+            <td>Sunday, May 8<br/>17:00 – 20:00</td>
+            <td>Monday, May 9<br/>09:00 – 12:00</td>
+        </tr>
+        <tr>
+            <td>London, UK<br/>(UTC+1)</td>
+            <td>Sunday, May 8<br/>16:00 – 19:00</td>
+            <td>Monday, May 9<br/>08:00 – 11:00</td>
+        </tr>
+        <tr>
+            <td>UTC/GMT</td>
+            <td>Sunday, May 8<br/>15:00 – 18:00</td>
+            <td>Monday, May 9<br/>07:00 – 10:00</td>
+        </tr>
+        <tr>
+            <td>Sao Paulo, Brazil<br/>(UTC-3)</td>
+            <td>Sunday, May 8<br/>12:00 – 15:00</td>
+            <td>Monday, May 9<br/>04:00 – 07:00</td>
+        </tr>
+        <tr>
+            <td>New York, USA<br/>(UTC-4)</td>
+            <td>Sunday, May 8<br/>11:00 – 14:00</td>
+            <td>Monday, May 9<br/>03:00 – 06:00</td>
         </tr>
     </tbody>
 </table>
