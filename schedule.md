@@ -49,20 +49,12 @@ For convenience, all published times are UTC.
                                           <b>Simulating Work Teams using MBTI agents</b><br/>
                                           <i>Luiz Braz, Jaime Sichman and Cristina Maria D Antona Bachert</i></td>
         </tr>
-    </tbody>
-</table>
-
-
-There is a 13-hour break between the first and the second part of MABS.
-
-
-<table id="mabs_part2">
-    <thead>
         <tr>
-            <th colspan="2">MABS – Part 2 (Monday, May 9, 07:00 – 10:00 UTC)</th>
+          <td colspan="2">There is a 13-hour break between the first and the second part of MABS.</td>
         </tr>
-    </thead>
-    <tbody>
+        <tr>
+          <td colspan="2"><b>MABS – Part 2 (Monday, May 9, 07:00 – 10:00 UTC)</b></td>
+        </tr>
         <tr>
             <td align="left" valign="top">07:00</td>
             <td align="left" valign="top">Session 3<br/>
