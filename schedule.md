@@ -19,7 +19,7 @@ For convenience, all published times are UTC and 24-hour notation.
     <tbody>
         <tr>
             <td align="left" valign="top">15:00</td>
-            <td align="left" valign="top">Welcome and Opening!</td>
+            <td align="left" valign="top">Welcome and Opening</td>
         </tr>
         <tr>
             <td align="left" valign="top">15:10</td>
