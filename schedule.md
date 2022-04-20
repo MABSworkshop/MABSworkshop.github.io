@@ -84,7 +84,7 @@ For convenience, all published times are UTC and 24-hour notation.
                                           <i>Helen Harman and Elizabeth Sklar</i></td>
         </tr>
         <tr>
-            <td align="left" valign="top">09:00</td>
+            <td align="left" valign="top">09:10</td>
             <td align="left" valign="top"><i>Coffee Break</i></td>
         </tr>
         <tr>
