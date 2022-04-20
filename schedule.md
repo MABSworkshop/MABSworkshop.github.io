@@ -13,7 +13,7 @@ For convenience, all published times are UTC and 24-hour notation.
 <table id="mabs_part1">
     <thead>
         <tr>
-            <th colspan="2">MABS – Part 1 (Sunday, May 8, 15:00 – 18:00 UTC)</th>
+            <th colspan="2" style="text-align:center">MABS – Part 1 (Sunday, May 8, 15:00 – 18:00 UTC)</th>
         </tr>
     </thead>
     <tbody>
