@@ -50,10 +50,10 @@ For convenience, all published times are UTC.
                                           <i>Luiz Braz, Jaime Sichman and Cristina Maria D Antona Bachert</i></td>
         </tr>
         <tr>
-          <td colspan="2">There is a 13-hour break between the first and the second part of MABS.</td>
+          <td colspan="2" style="text-align: center">There is a 13-hour break between the first and the second part of MABS.</td>
         </tr>
         <tr>
-          <td colspan="2"><b>MABS – Part 2 (Monday, May 9, 07:00 – 10:00 UTC)</b></td>
+          <td colspan="2" style="text-align: center"><b>MABS – Part 2 (Monday, May 9, 07:00 – 10:00 UTC)</b></td>
         </tr>
         <tr>
             <td align="left" valign="top">07:00</td>
