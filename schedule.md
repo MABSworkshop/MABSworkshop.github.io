@@ -4,7 +4,11 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-For convenience, all published times are UTC. There is a 13-hour break between the two parts of MABS. 
+AAMAS is hosted in Auckland, New Zealand, but will take place as an online event via **zoom**. Therefore, the schedule might be inconvenient for some time zones. We decided to split up the workshop in two parts with a 13-hour break in-between, such that at least one of the two slots will not be during nighttime for all participants. Please note that the first part of MABS takes place on the afternoon of Sunday, May 8, for some time zones. All times are in 24-hour notation and please do not hesitate to contact us in case you have any questions regarding the organization of MABS 2022.
+
+We are looking forward to your participation!
+
+For convenience, all published times are UTC. 
 
 <table id="mabs_part1">
     <thead>
@@ -97,6 +101,7 @@ There is a 13-hour break between the first and the second part of MABS.
         </tr>
     </tbody>
 </table>
+
 
 
 <table id="mabs_timezones">
