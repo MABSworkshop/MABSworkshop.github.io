@@ -6,6 +6,8 @@ permalink: /schedule/
 
 AAMAS is hosted in Auckland, New Zealand, but will take place as an online event via **zoom**. Therefore, the schedule might be inconvenient for some time zones. We decided to split up the workshop in two parts with a 13-hour break in-between, such that at least one of the two slots will not be during nighttime for all participants. Please note that the first part of MABS takes place on the afternoon of Sunday, May 8, for some time zones. Please do not hesitate to contact us in case you have any questions regarding the organization of MABS 2022.
 
+Be prepared to be involved! All presenters have been asked to prepare questions for **you**, the audience. At the end of their presentation you will have to opportunity to respond to their questions as well as ask your own questions.
+
 We are looking forward to your participation!
 
 For convenience, all published times are UTC and 24-hour notation. 
