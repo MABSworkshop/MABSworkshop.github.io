@@ -31,7 +31,7 @@ For convenience, all published times are UTC and 24-hour notation.
                                           <br/>
                                           <b>School’s Out? Simulating Schooling Strategies During COVID-19</b><br/>
                                           <i>Lukas Tapp, Veronika Kurchyna, Jan Ole Berndt and Ingo J. Timm</i><br/>
-                                          (pdf, video)
+                                          (<a href="articles/MABS_2022_paper_1.pdf">pdf</a>, video)
           </td>
         </tr>
         <tr>
