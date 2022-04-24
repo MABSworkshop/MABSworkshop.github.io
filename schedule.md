@@ -54,7 +54,7 @@ For convenience, all published times are UTC and 24-hour notation.
                                           (<a href="../articles/MABS_2022_paper_4.pdf" target="_blank">pdf</a>, video)<br/>
                                           <br/>
                                           <b>Simulating Work Teams using MBTI agents</b><br/>
-                                          <i>Luiz Braz, Jaime Sichman and Cristina Maria D Antona Bachert</i>
+                                          <i>Luiz Braz, Jaime Sichman and Cristina Maria D Antona Bachert</i><br/>
                                           (<a href="../articles/MABS_2022_paper_5.pdf" target="_blank">pdf</a>, video)
           </td>
         </tr>
@@ -76,7 +76,7 @@ For convenience, all published times are UTC and 24-hour notation.
                                           (<a href="../articles/MABS_2022_paper_7.pdf" target="_blank">pdf</a>, video)<br/>
                                           <br/>
                                           <b>Reconsidering an Agent-Based Model of Food Web Evolution</b><br/>
-                                          <i>Samuel Armstrong and Emma Norling</i>
+                                          <i>Samuel Armstrong and Emma Norling</i><br/>
                                           (<a href="../articles/MABS_2022_paper_8.pdf" target="_blank">pdf</a>, video)
           </td>
         </tr>
@@ -96,7 +96,7 @@ For convenience, all published times are UTC and 24-hour notation.
                                           (<a href="../articles/MABS_2022_paper_10.pdf" target="_blank">pdf</a>, video)<br/>
                                           <br/>
                                           <b>Challenges for Multi-Agent Based Agricultural Workforce Management</b><br/>
-                                          <i>Helen Harman and Elizabeth Sklar</i>
+                                          <i>Helen Harman and Elizabeth Sklar</i><br/>
                                           (<a href="../articles/MABS_2022_paper_11.pdf" target="_blank">pdf</a>, video)<br/>
           </td>
         </tr>
