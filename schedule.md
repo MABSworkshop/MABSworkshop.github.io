@@ -47,12 +47,16 @@ For convenience, all published times are UTC and 24-hour notation.
                                           <br/>
                                           <b>Land use management using Multi-Agent Based Simulation in a watershed in south of the Brazil</b><br/>
                                           <i>Bruna Leitzke and Diana Adamatti</i><br/>
+                                          (<a href="../articles/MABS_2022_paper_3.pdf" target="_blank">pdf</a>, video)<br/>
                                           <br/>
                                           <b>An agent-based model of horizontal mergers</b><br/>
                                           <i>Martin Barrenechea and José Clementino</i><br/>
+                                          (<a href="../articles/MABS_2022_paper_4.pdf" target="_blank">pdf</a>, video)<br/>
                                           <br/>
                                           <b>Simulating Work Teams using MBTI agents</b><br/>
-                                          <i>Luiz Braz, Jaime Sichman and Cristina Maria D Antona Bachert</i></td>
+                                          <i>Luiz Braz, Jaime Sichman and Cristina Maria D Antona Bachert</i>
+                                          (<a href="../articles/MABS_2022_paper_5.pdf" target="_blank">pdf</a>, video)
+          </td>
         </tr>
         <tr>
           <td colspan="2" style="text-align:center"><i>There is a 13-hour break between the first and the second part of MABS.</i></td>
@@ -65,12 +69,16 @@ For convenience, all published times are UTC and 24-hour notation.
             <td align="left" valign="top">Session 3<br/>
                                           <b>Replacing Method for Multi-Agent Crowd Simulation by Convolutional Neural Network</b><br/>
                                           <i>Yu Yamashita, Shunki Takami, Shusuke Shigenaka, Masaki Onishi and Atsuyuki Morishima</i><br/>
+                                          (<a href="../articles/MABS_2022_paper_6.pdf" target="_blank">pdf</a>, video)<br/>
                                           <br/>
                                           <b>The influence of national culture on evacuation response behaviour and time: An agent-based approach</b><br/>
                                           <i>Elvira Van Damme, Natalie van der Wal, Gert Jan Hofstede and Frances Brazier</i><br/>
+                                          (<a href="../articles/MABS_2022_paper_7.pdf" target="_blank">pdf</a>, video)<br/>
                                           <br/>
                                           <b>Reconsidering an Agent-Based Model of Food Web Evolution</b><br/>
-                                          <i>Samuel Armstrong and Emma Norling</i></td>
+                                          <i>Samuel Armstrong and Emma Norling</i>
+                                          (<a href="../articles/MABS_2022_paper_8.pdf" target="_blank">pdf</a>, video)
+          </td>
         </tr>
         <tr>
             <td align="left" valign="top">08:00</td>
@@ -81,12 +89,16 @@ For convenience, all published times are UTC and 24-hour notation.
             <td align="left" valign="top">Session 4<br/>
                                           <b>Surrogate Modeling of Agent-based Airport Terminal Operations</b><br/>
                                           <i>Benyamin De Leeuw, Seyed Sahand Mohammadi Ziabari and Alexei Sharpanskykh</i><br/>
+                                          (<a href="../articles/MABS_2022_paper_9.pdf" target="_blank">pdf</a>, video)<br/>
                                           <br/>
                                           <b>Generating Explanatory Saliency Maps for Mixed Traffic Flow using a Behaviour Cloning Model</b><br/>
                                           <i>Yasin Yousif and Jörg P. Müller</i><br/>
+                                          (<a href="../articles/MABS_2022_paper_10.pdf" target="_blank">pdf</a>, video)<br/>
                                           <br/>
                                           <b>Challenges for Multi-Agent Based Agricultural Workforce Management</b><br/>
-                                          <i>Helen Harman and Elizabeth Sklar</i></td>
+                                          <i>Helen Harman and Elizabeth Sklar</i>
+                                          (<a href="../articles/MABS_2022_paper_11.pdf" target="_blank">pdf</a>, video)<br/>
+          </td>
         </tr>
         <tr>
             <td align="left" valign="top">09:10</td>
