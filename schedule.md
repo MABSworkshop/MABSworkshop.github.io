@@ -30,7 +30,9 @@ For convenience, all published times are UTC and 24-hour notation.
                                           <i>Frank Dignum</i><br/>
                                           <br/>
                                           <b>School’s Out? Simulating Schooling Strategies During COVID-19</b><br/>
-                                          <i>Lukas Tapp, Veronika Kurchyna, Jan Ole Berndt and Ingo J. Timm</i></td>
+                                          <i>Lukas Tapp, Veronika Kurchyna, Jan Ole Berndt and Ingo J. Timm</i><br/>
+                                          (pdf, video)
+          </td>
         </tr>
         <tr>
             <td align="left" valign="top">16:20</td>
