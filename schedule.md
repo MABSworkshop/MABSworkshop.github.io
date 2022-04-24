@@ -31,7 +31,7 @@ For convenience, all published times are UTC and 24-hour notation.
                                           <br/>
                                           <b>School’s Out? Simulating Schooling Strategies During COVID-19</b><br/>
                                           <i>Lukas Tapp, Veronika Kurchyna, Jan Ole Berndt and Ingo J. Timm</i><br/>
-                                          (<a href="./articles/MABS_2022_paper_1.pdf" target="_blank">pdf</a>, video)
+                                          (<a href="../articles/MABS_2022_paper_1.pdf" target="_blank">pdf</a>, video)
           </td>
         </tr>
         <tr>
@@ -43,7 +43,7 @@ For convenience, all published times are UTC and 24-hour notation.
             <td align="left" valign="top">Session 2 <br/>
                                           <b>Agents dealing with Norms and Regulations</b><br/>
                                           <i>Christian Kammler, René Mellema and Frank Dignum</i><br/>
-                                          (<a href="./articles/MABS_2022_paper_2.pdf" target="_blank">pdf</a>, video)<br/>
+                                          (<a href="../articles/MABS_2022_paper_2.pdf" target="_blank">pdf</a>, video)<br/>
                                           <br/>
                                           <b>Land use management using Multi-Agent Based Simulation in a watershed in south of the Brazil</b><br/>
                                           <i>Bruna Leitzke and Diana Adamatti</i><br/>
