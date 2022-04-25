@@ -19,3 +19,5 @@ The following 11 papers have been accepted for MABS2022. Authors been invited to
 | Yasin Yousif and Jörg P. Müller | Generating Explanatory Saliency Maps for Mixed Traffic Flow using a Behaviour Cloning Model |
 | Helen Harman and Elizabeth Sklar | Challenges for Multi-Agent Based Agricultural Workforce Management |
 | Christian Kammler, René Mellema and Frank Dignum | Agents dealing with Norms and Regulations |
+
+.
