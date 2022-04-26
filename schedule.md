@@ -159,3 +159,8 @@ For convenience, all published times are UTC and 24-hour notation.
         </tr>
     </tbody>
 </table>
+
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=UTC&showTz=1&mode=AGENDA&hl=en_GB&showPrint=0&showTabs=0&showCalendars=0&showNav=0&src=Y18wZjcxaGkyNWdlNzltYnVrajYxYXJ1NWtjNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23C0CA33" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
