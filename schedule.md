@@ -15,7 +15,7 @@ To conveniently import the MABS 2022 sessions into your calender in accordance w
 <table id="mabs_part1">
     <thead>
       <tr>  
-        <th colspan="2" style="text-align:center">For convenience, all published times are UTC and 24-hour notation.</th>
+        <th colspan="2" style="text-align:center"><i>All published times are UTC and 24-hour notation.</i></th>
       </tr>
         <tr>
             <th colspan="2" style="text-align:center">MABS – Part 1 (Sunday, May 8, 15:00 – 18:00 UTC)</th>
