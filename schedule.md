@@ -10,7 +10,7 @@ Be prepared to be involved! All presenters have been asked to prepare questions 
 
 We are looking forward to your participation!
 
-To conveniently import the MABS 2022 sessions into your calender in accordance with your time zone, please use the following <a href="https://calendar.google.com/calendar/embed?src=c_0f71hi25ge79mbukj61aru5kc4%40group.calendar.google.com&ctz=Europe%2FStockholm">Google Calendar</a>  (<a href="https://calendar.google.com/calendar/ical/c_0f71hi25ge79mbukj61aru5kc4%40group.calendar.google.com/public/basic.ics">iCal</a>).
+To conveniently import the MABS 2022 sessions into your calender, please use the following <a href="https://calendar.google.com/calendar/embed?src=c_0f71hi25ge79mbukj61aru5kc4%40group.calendar.google.com&ctz=Europe%2FStockholm">Google Calendar</a>  (<a href="https://calendar.google.com/calendar/ical/c_0f71hi25ge79mbukj61aru5kc4%40group.calendar.google.com/public/basic.ics">iCal</a>).
 
 <table id="mabs_part1">
     <thead>
