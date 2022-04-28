@@ -80,7 +80,7 @@ To conveniently import the MABS 2022 sessions into your calender, please use the
                                           <br/>
                                           <b>Reconsidering an Agent-Based Model of Food Web Evolution</b><br/>
                                           <i>Samuel Armstrong and Emma Norling</i><br/>
-                                          (<a href="../articles/MABS_2022_paper_8.pdf" target="_blank">pdf</a>, video)
+                                          (<a href="../articles/MABS_2022_paper_8.pdf" target="_blank">pdf</a>, <a href="https://play.mau.se/media/t/0_p33lzsny" target="_blank">video</a>)
           </td>
         </tr>
         <tr>
