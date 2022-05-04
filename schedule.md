@@ -109,7 +109,17 @@ To conveniently import the MABS 2022 sessions into your calender, please use the
         </tr>
         <tr>
             <td align="left" valign="top">09:20</td>
-            <td align="left" valign="top"><i>Panel discussion and Closing session</i></td>
+          <td align="left" valign="top">
+            <b>Panel discussion</b><br/>
+            <i><a href="https://staff.lincoln.ac.uk/hharman" target="_blank">Helen Harman</a> (University of Lincoln)</i><br/>
+            <i><a href="https://www.tudelft.nl/lr/organisatie/afdelingen/control-and-operations/air-transport-and-operations/people" target="_blank">Seyed Sahand Mohammadi Ziabari</a> (Technical University Delft)</i><br/>
+            <i><a href="https://biocomplexity.virginia.edu/person/samarth-swarup" target="_blank">Samarth Swarup</a> (University of Virginia)</i><br/>
+            <i><a href="https://www.su.se/english/profiles/verhagen-1.183172" target="_blank">Harko Verhagen</a> (Stockholm University)</i><br/>
+          </td>
+        </tr>
+        <tr>
+            <td align="left" valign="top">09:55</td>
+            <td align="left" valign="top"><i>Closing session</i></td>
         </tr>
     </tbody>
 </table>
