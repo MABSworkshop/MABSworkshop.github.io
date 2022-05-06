@@ -50,15 +50,18 @@ To conveniently import the MABS 2022 sessions into your calender, please use the
                                           <br/>
                                           <b>Land use management using Multi-Agent Based Simulation in a watershed in south of the Brazil</b><br/>
                                           <i>Bruna Leitzke and Diana Adamatti</i><br/>
-                                          (<a href="../articles/MABS_2022_paper_3.pdf" target="_blank">pdf</a>, video)<br/>
+                                          (<a href="../articles/MABS_2022_paper_3.pdf" target="_blank">pdf</a>, 
+                                          <a href="https://play.mau.se/media/t/0_v6xx7ak8" target="_blank">video</a>)<br/>
                                           <br/>
                                           <b>An agent-based model of horizontal mergers</b><br/>
                                           <i>Martin Barrenechea and José Clementino</i><br/>
-                                          (<a href="../articles/MABS_2022_paper_4.pdf" target="_blank">pdf</a>, video)<br/>
+                                          (<a href="../articles/MABS_2022_paper_4.pdf" target="_blank">pdf</a>, 
+                                          <a href="https://play.mau.se/media/t/0_vob0uwkm" target="_blank">video</a>)<br/>
                                           <br/>
                                           <b>Simulating Work Teams using MBTI agents</b><br/>
                                           <i>Luiz Braz, Jaime Sichman and Cristina Maria D Antona Bachert</i><br/>
-                                          (<a href="../articles/MABS_2022_paper_5.pdf" target="_blank">pdf</a>, video)
+                                          (<a href="../articles/MABS_2022_paper_5.pdf" target="_blank">pdf</a>, 
+                                          <a href="https://play.mau.se/media/t/0_eodbywxb" target="_blank">video</a>)
           </td>
         </tr>
         <tr>
@@ -72,7 +75,8 @@ To conveniently import the MABS 2022 sessions into your calender, please use the
             <td align="left" valign="top">Session 3<br/>
                                           <b>Replacing Method for Multi-Agent Crowd Simulation by Convolutional Neural Network</b><br/>
                                           <i>Yu Yamashita, Shunki Takami, Shusuke Shigenaka, Masaki Onishi and Atsuyuki Morishima</i><br/>
-                                          (<a href="../articles/MABS_2022_paper_6.pdf" target="_blank">pdf</a>, video)<br/>
+                                          (<a href="../articles/MABS_2022_paper_6.pdf" target="_blank">pdf</a>, 
+                                          <a href="https://play.mau.se/media/t/0_jhu6q87c" target="_blank">video</a>)<br/>
                                           <br/>
                                           <b>The influence of national culture on evacuation response behaviour and time: An agent-based approach</b><br/>
                                           <i>Elvira Van Damme, Natalie van der Wal, Gert Jan Hofstede and Frances Brazier</i><br/>
@@ -80,7 +84,8 @@ To conveniently import the MABS 2022 sessions into your calender, please use the
                                           <br/>
                                           <b>Reconsidering an Agent-Based Model of Food Web Evolution</b><br/>
                                           <i>Samuel Armstrong and Emma Norling</i><br/>
-                                          (<a href="../articles/MABS_2022_paper_8.pdf" target="_blank">pdf</a>, <a href="https://play.mau.se/media/t/0_p33lzsny" target="_blank">video</a>)
+                                          (<a href="../articles/MABS_2022_paper_8.pdf" target="_blank">pdf</a>, 
+                                          <a href="https://play.mau.se/media/t/0_p33lzsny" target="_blank">video</a>)
           </td>
         </tr>
         <tr>
@@ -96,7 +101,8 @@ To conveniently import the MABS 2022 sessions into your calender, please use the
                                           <br/>
                                           <b>Generating Explanatory Saliency Maps for Mixed Traffic Flow using a Behaviour Cloning Model</b><br/>
                                           <i>Yasin Yousif and Jörg P. Müller</i><br/>
-                                          (<a href="../articles/MABS_2022_paper_10.pdf" target="_blank">pdf</a>, video)<br/>
+                                          (<a href="../articles/MABS_2022_paper_10.pdf" target="_blank">pdf</a>, 
+                                          <a href="https://play.mau.se/media/t/0_n2upbgvn" target="_blank">video</a>)<br/>
                                           <br/>
                                           <b>Challenges for Multi-Agent Based Agricultural Workforce Management</b><br/>
                                           <i>Helen Harman and Elizabeth Sklar</i><br/>
