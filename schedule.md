@@ -34,7 +34,8 @@ To conveniently import the MABS 2022 sessions into your calender, please use the
                                           <br/>
                                           <b>School’s Out? Simulating Schooling Strategies During COVID-19</b><br/>
                                           <i>Lukas Tapp, Veronika Kurchyna, Jan Ole Berndt and Ingo J. Timm</i><br/>
-                                          (<a href="../articles/MABS_2022_paper_1.pdf" target="_blank">pdf</a>, video)
+                                          (<a href="../articles/MABS_2022_paper_1.pdf" target="_blank">pdf</a>, 
+                                          <a href="https://play.mau.se/media/t/0_1u8avkfx" target="_blank">video</a>)
           </td>
         </tr>
         <tr>
@@ -46,7 +47,8 @@ To conveniently import the MABS 2022 sessions into your calender, please use the
             <td align="left" valign="top">Session 2 <br/>
                                           <b>Agents dealing with Norms and Regulations</b><br/>
                                           <i>Christian Kammler, René Mellema and Frank Dignum</i><br/>
-                                          (<a href="../articles/MABS_2022_paper_2.pdf" target="_blank">pdf</a>, video)<br/>
+                                          (<a href="../articles/MABS_2022_paper_2.pdf" target="_blank">pdf</a>, 
+                                          <a href="https://play.mau.se/media/t/0_k2pgy2rr" target="_blank">video</a>)<br/>
                                           <br/>
                                           <b>Land use management using Multi-Agent Based Simulation in a watershed in south of the Brazil</b><br/>
                                           <i>Bruna Leitzke and Diana Adamatti</i><br/>
@@ -106,7 +108,8 @@ To conveniently import the MABS 2022 sessions into your calender, please use the
                                           <br/>
                                           <b>Challenges for Multi-Agent Based Agricultural Workforce Management</b><br/>
                                           <i>Helen Harman and Elizabeth Sklar</i><br/>
-                                          (<a href="../articles/MABS_2022_paper_11.pdf" target="_blank">pdf</a>, video)<br/>
+                                          (<a href="../articles/MABS_2022_paper_11.pdf" target="_blank">pdf</a>, 
+                                          <a href="https://play.mau.se/media/t/0_fafc4s3d" target="_blank">video</a>)<br/>
           </td>
         </tr>
         <tr>
