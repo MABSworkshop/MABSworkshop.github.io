@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Schedule
-permalink: /schedule/
+title: Program
+permalink: /program/
 ---
 
 To be defined
