@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-MABS 2023 is part of the AAMAS 2023 conference taking place in London, UK on May 29-30, 2023.
+MABS 2023 is part of the AAMAS 2023 conference taking place at [ExCel London](https://www.excel.london/){:target="_blank"} in London, UK on May 29-30, 2023.
 
 The meeting of researchers from Multi-Agent Systems (MAS) engineering, simulation, and the social, economic, and organizational sciences is extensively recognised for its role in cross-fertilization. The synergy among researchers from these fields has undoubtedly been an important source of inspiration for the body of knowledge that has been produced in the area.
 
@@ -56,9 +56,10 @@ The workshop will be of interest to researchers engaged in modeling and analyzin
 
 MABS intends to be a place where researchers can exchange ideas about their work and we are looking forward to the community meeting once again in person.
 
-## Submission of Papers 
+## Submission guidelines
 Submissions are limited to 12 pages formatted according to the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"} and must be electronically submitted before the submission deadline through the workshop conference system, which is available at: [https://easychair.org/conferences/?conf=mabs2023](https://easychair.org/conferences/?conf=mabs2023){:target="_blank"}
 
 All contributions will be peer-reviewed by at least two independent PC members. The evaluation criteria of contributions will be based on originality, quality, clarity, and its relevance to the workshop.
 
+## Publication
 All accepted papers will be printed in the AAMAS workshop proceedings. In addition, following the tradition of the previous MABS workshops, we intend to publish the accepted papers, after a further reviewing process, in the [Springer Multi-Agent-Based Simulation book series, LNAI](https://link.springer.com/conference/mabs){:target="_blank"}.
