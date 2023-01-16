@@ -22,4 +22,35 @@ permalink: /committees/
 
 ## Program Committee
 
-To be confirmed
+* Diana Adamatti, Federal University of Rio Grande, Brazil
+* Shah Jamal Alam, Habib University, Pakistan
+* Frederic Amblard, Toulouse 1 Capitole University, France
+* Luis Antunes, University of Lisbon, Portugal
+* Robert Axtell, George Mason University, USA
+* Cristiano Castelfranchi, Institute of Cognitive Sciences and Technologies, Italy
+* Emile Chappin, Delft University of Technology, The Netherlands
+* Sung-Bae Cho, Yonsei University, South Korea
+* Paul Davidsson, Malmö University, Sweden
+* Frank Dignum, Umeå University, Sweden
+* Bruce Edmonds, Manchester Metropolitan University, UK
+* Benoit Gaudou, University of Toulouse, France
+* Nigel Gilbert, University of Surrey, UK
+* Nick Gotts, Independent Researcher, UK
+* Rainer Hegselmann, Bayreuth University, Germany
+* Marco Janssen, Arizona State University, USA
+* Fabian Lorig, Malmö University, Sweden
+* Gustavo Giménez Lugo, Federal University of Technology – Parana, Brazil
+* Ruth Meyer, Centre for Policy Modelling, UK
+* Emma Norling, University of Sheffield, UK
+* Paulo Novais, Universidade do Minho, Portugal
+* Mario Paolucci, Institute of Cognitive Sciences and Technologies, Italy
+* Gary Polhill, The James Hutton Institute, UK
+* Jeffrey Schank, University of California – Davis, USA
+* Elizabeth Sklar, University of Lincoln, UK
+* Samarth Swarup, University of Virginia, USA
+* Keiki Takadama, The University of Electro-Communications, Japan
+* Takao Terano, Tokyo Institute of Technology, Japan
+* Klaus Troitzsch, University of Koblenz-Landau, Germany
+* Nicolas Verstaevel, Toulouse 1 Capitole University, France
+* Liu Yang, Southeast University, China
+* Neil Yorke-Smith, Delft University of Technology, The Netherlands
