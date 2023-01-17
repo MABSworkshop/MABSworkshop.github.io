@@ -51,6 +51,7 @@ permalink: /committees/
 * Keiki Takadama, The University of Electro-Communications, Japan
 * Takao Terano, Tokyo Institute of Technology, Japan
 * Klaus Troitzsch, University of Koblenz-Landau, Germany
+* Natalie Van Der Wal, Delft University of Technology, The Netherlands
 * Nicolas Verstaevel, Toulouse 1 Capitole University, France
 * Liu Yang, Southeast University, China
 * Neil Yorke-Smith, Delft University of Technology, The Netherlands
