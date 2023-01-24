@@ -46,6 +46,7 @@ permalink: /committees/
 * Mario Paolucci, Institute of Cognitive Sciences and Technologies, Italy
 * Gary Polhill, The James Hutton Institute, UK
 * Jeffrey Schank, University of California – Davis, USA
+* Jaime Simão Sichman, University of São Paulo, Brazil
 * Elizabeth Sklar, University of Lincoln, UK
 * Samarth Swarup, University of Virginia, USA
 * Keiki Takadama, The University of Electro-Communications, Japan
