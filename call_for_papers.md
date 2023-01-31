@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-MABS 2023 is part of the AAMAS 2023 conference taking place at [ExCel London](https://www.excel.london/){:target="_blank"} in London, UK on May 29-30, 2023.
+MABS 2023 is part of the AAMAS 2023 conference taking place at [ExCel London](https://www.excel.london/){:target="_blank"} in London, UK on May 30, 2023.
 
 The meeting of researchers from Multi-Agent Systems (MAS) engineering, simulation, and the social, economic, and organizational sciences is extensively recognised for its role in cross-fertilization. The synergy among researchers from these fields has undoubtedly been an important source of inspiration for the body of knowledge that has been produced in the area.
 

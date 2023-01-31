@@ -13,7 +13,7 @@ The excellent quality level of this workshop has been recognized since its incep
 * Authors Notification: March 13, 2023
 * Camera Ready: March 20, 2023
 * Preliminary Program Published: April 10, 2023
-* MABS 2023 will take place: May 29-30, 2023
+* MABS 2023 will take place: **May 30, 2023 (Confirmed)**
 * Preparation of post-proceedings (Springer LNAI): 2nd half of 2023
 
 ## Program chairs
