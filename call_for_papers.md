@@ -57,7 +57,7 @@ The workshop will be of interest to researchers engaged in modeling and analyzin
 MABS intends to be a place where researchers can exchange ideas about their work and we are looking forward to the community meeting once again in person.
 
 ## Submission guidelines
-Submissions are limited to 12 pages formatted according to the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"} and must be electronically submitted before the submission deadline through the workshop conference system, which is available at: [https://easychair.org/conferences/?conf=mabs2023](https://easychair.org/conferences/?conf=mabs2023){:target="_blank"}
+Submissions are **limited to 12 pages including references** formatted according to the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"} and must be electronically submitted before the submission deadline through the workshop conference system, which is available at: [https://easychair.org/conferences/?conf=mabs2023](https://easychair.org/conferences/?conf=mabs2023){:target="_blank"}
 
 All contributions will be peer-reviewed by at least two independent PC members. The evaluation criteria of contributions will be based on originality, quality, clarity, and its relevance to the workshop.
 
