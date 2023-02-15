@@ -14,7 +14,8 @@ header_pages:
   - accepted_papers.md
   - registration.md
   - schedule.md
-  - program.md
+  - proceedings.md
+  - mabs_series.md
   
 # Build settings
 theme: minima
