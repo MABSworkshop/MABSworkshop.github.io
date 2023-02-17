@@ -27,6 +27,7 @@ permalink: /committees/
 * Frederic Amblard, Toulouse 1 Capitole University, France
 * Luis Antunes, University of Lisbon, Portugal
 * Robert Axtell, George Mason University, USA
+* João Balsa, University of Lisbon, Portugal
 * Cristiano Castelfranchi, Institute of Cognitive Sciences and Technologies, Italy
 * Emile Chappin, Delft University of Technology, The Netherlands
 * Sung-Bae Cho, Yonsei University, South Korea
@@ -35,11 +36,11 @@ permalink: /committees/
 * Bruce Edmonds, Manchester Metropolitan University, UK
 * Benoit Gaudou, University of Toulouse, France
 * Nigel Gilbert, University of Surrey, UK
+* Gustavo Giménez-Lugo, Federal University of Technology – Paraná, Brazil
 * Nick Gotts, Independent Researcher, UK
 * Rainer Hegselmann, Bayreuth University, Germany
 * Marco Janssen, Arizona State University, USA
 * Fabian Lorig, Malmö University, Sweden
-* Gustavo Giménez Lugo, Federal University of Technology – Parana, Brazil
 * Ruth Meyer, Centre for Policy Modelling, UK
 * Emma Norling, University of Sheffield, UK
 * Paulo Novais, Universidade do Minho, Portugal
@@ -53,6 +54,7 @@ permalink: /committees/
 * Takao Terano, Tokyo Institute of Technology, Japan
 * Klaus Troitzsch, University of Koblenz-Landau, Germany
 * Natalie Van Der Wal, Delft University of Technology, The Netherlands
+* Lois Vanhée, Umeå University, Sweden
 * Nicolas Verstaevel, Toulouse 1 Capitole University, France
 * Liu Yang, Southeast University, China
 * Neil Yorke-Smith, Delft University of Technology, The Netherlands
