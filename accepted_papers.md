@@ -4,8 +4,6 @@ title: Accepted Papers
 permalink: /accepted_papers/
 ---
 
-# Accepted Papers
-
 | Author(s) | Title |
 |-----------|-------|
 | Alexandru-Ionut Babeanu, Tatiana Filatova, Jan H. Kwakkel and Neil Yorke-Smith                                             | Adaptive Parallelization of Multi-Agent Simulations with Localized Dynamics |
