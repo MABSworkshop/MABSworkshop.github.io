@@ -1,7 +1,0 @@
----
-layout: default
-title: Schedule
-permalink: /schedule/
----
-
-To be defined
