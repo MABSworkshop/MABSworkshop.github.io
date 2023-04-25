@@ -36,7 +36,7 @@ permalink: /program/
     </tr>
     <tr>
       <td align="left" valign="top"><b>10h45 - 11h45</b></td>
-      <td align="left" valign="top"><b>Invited Talk</b><br/><b>Combining Constraint-Based and Imperative Programming in MABS</b><br/><i>Bruce Edmonds</i></td>
+      <td align="left" valign="top"><b>Invited Talk</b><br/><a href="https://mabsworkshop.github.io/invited/"><b>Combining Constraint-Based and Imperative Programming in MABS</b></a><br/><i>Bruce Edmonds</i></td>
     </tr>
     <tr style="background-color: darkgray;">
       <td align="left" valign="top"><b>11h50 - 12h30</b></td>
