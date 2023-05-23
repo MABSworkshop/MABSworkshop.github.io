@@ -42,12 +42,12 @@ permalink: /program/
       <td align="left" valign="top"><b>11h50 - 12h30</b></td>
       <td align="left" valign="top"><b>Session 2: MABS and Reinforcement Learning</b></td>
     </tr>
-    <tr>
+<!--    <tr>
       <td align="left" valign="top">11h50 - 12h10</td>
       <td align="left" valign="top"><b>Reinforcement Learning for Economic Policy: A New Frontier?</b> [<a href="../articles/tilbury2023.pdf" target="_blank">PDF</a>]<br/><i>Callum R. Tilbury</i></td>
-    </tr>
+    </tr> -->
     <tr>
-      <td align="left" valign="top">12h10 - 12h30</td>
+      <td align="left" valign="top">11h50 - 12h10</td>
       <td align="left" valign="top"><b>Multi-Agent Financial Systems with RL: A Pension Ecosystem Case (WIP)</b> [<a href="../articles/ozhamaratliBarucca2023.pdf" target="_blank">PDF</a>]<br/><i>Fatih Ozhamaratli</i>, <i>Paolo Barucca</i></td>
     </tr>
     <tr style="background-color: black; color: white;">
