@@ -62,4 +62,4 @@ Submissions are **limited to 12 pages including references** formatted according
 All contributions will be peer-reviewed by at least two independent PC members. The evaluation criteria of contributions will be based on originality, quality, clarity, and its relevance to the workshop.
 
 ## Publication
-All accepted papers will be printed in the AAMAS workshop proceedings. In addition, following the tradition of the previous MABS workshops, we intend to publish the accepted papers, after a further reviewing process, in the [Springer Multi-Agent-Based Simulation book series, LNAI](https://link.springer.com/conference/mabs){:target="_blank"}.
+Following the tradition of the previous MABS workshops, we intend to publish the accepted papers, after a further reviewing process, in the [Springer Multi-Agent-Based Simulation book series, LNAI](https://link.springer.com/conference/mabs){:target="_blank"}.
