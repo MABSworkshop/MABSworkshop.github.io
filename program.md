@@ -7,7 +7,7 @@ permalink: /program/
 <table id="mabs2023-schedule">
   <tbody>
     <tr>
-      <td align="left" valign="top" style="width: 17%;">8h30 - 8h40</td>
+      <td align="left" valign="top" style="width: 17%;">8h15 - 8h40</td>
       <td align="left" valign="top">Welcome and Opening</td>
     </tr>
     <tr style="background-color: darkgray;">
