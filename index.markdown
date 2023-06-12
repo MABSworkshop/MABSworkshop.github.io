@@ -4,6 +4,14 @@ title: MABS2023
 permlink: /
 ---
 
+---
+
+## Best Paper Award
+
+**Active Sensing for Epidemic State Estimation using ABM-guided Machine Learning** [<a href="../articles/salibaEtAl2023.pdf" target="_blank">PDF</a>] [<a href="../presentations/swarupEtAl2023-presentation.pdf" target="_blank">Presentation</a>]<br/>_Sami Saliba, Faraz Dadgostari, Stefan Hoops, Henning S. Mortveit, Samarth Swarup_
+
+---
+
 The 2023 Multi-Agent-Based Simulation (MABS) workshop is the 24th of the [MABS series that began in 1998](http://www.pcs.usp.br/~mabs/){:target="_blank"}. Its scientific focus lies in the confluence of social sciences and multi-agent systems, with a strong application/empirical vein, and its emphasis is stressed on (i) exploratory agent based simulation as a principled way of undertaking scientific research in the social sciences and (ii) using social theories as an inspiration to new frameworks and developments in multi-agent systems.
 
 The excellent quality level of this workshop has been recognized since its inception and its proceedings have been regularly published in Springer's Lecture Notes series. MABS 2023 will be hosted at [AAMAS 2023 (22nd International Conference on Autonomous Agents and Multiagent Systems)](https://aamas2023.soton.ac.uk){:target="_blank"}, which will take place at [ExCel London](https://www.excel.london/){:target="_blank"} in London, UK on May 29-June 02, 2023.
