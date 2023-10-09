@@ -11,9 +11,9 @@ We invite authors of accepted and presented papers and the invited speaker to su
 </p>
 
 ## Important Dates
-* **Submission deadline: September 15, 2023 AOE**
-* Authors notification: November 15, 2023
-* Final version: December 15, 2023 AOE
+* Submission deadline: <span style="color:red">~~September 15, 2023 AOE~~</span> **October 1, 2023 AOE**
+* Authors notification: <span style="color:red">~~November 15, 2023~~</span> **December 15, 2023**
+* Final version: <span style="color:red">~~December 15, 2023 AOE~~</span> **January 15, 2024**
 
 ## Format Instructions
 Submissions are **limited to 16 pages excluding references** formatted in **LaTeX or MS Word** according to the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"}. Springer's LNCS proceedings LaTeX template is available in [Overleaf](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WsdHOy5uZpg){:target="_blank"}.
