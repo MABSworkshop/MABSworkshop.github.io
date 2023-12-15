@@ -5,7 +5,7 @@ permalink: /committees/
 ---
 
 ## Program Chairs
-* [Jason Thompson](https://findanexpert.unimelb.edu.au/profile/769805-jason-thompson){:target="_blank"} (The UNiversity of Melbourne, Australia)
+* [Jason Thompson](https://findanexpert.unimelb.edu.au/profile/769805-jason-thompson){:target="_blank"} (The University of Melbourne, Australia)
 * [Ivana Stankov](https://people.unisa.edu.au/Ivana.Stankov){:target="_blank"} (The University of South Australia, Australia)
 
 ## The MABS Steering Committee
