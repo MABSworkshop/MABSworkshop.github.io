@@ -78,6 +78,8 @@ May 6/7: Workshop event
 Aug-Dec: Preparation of Post-Proceedings for Springer LNAI
 
 ## More information
-For more information or if you have queries relating to the workshop, please contact our MABS workshop co-Chairs:
+For more information or if you have queries relating to the workshop, please contact our MABS workshop Chairs and coordinators:
 **Jason Thompson** - jason.thompson@unimelb.edu.au
 **Ivana Stankov** - ivana.stankov@unisa.edu.au
+**Rajith Vidanaarachchi** - rajith.v@unimelb.edu.au
+
