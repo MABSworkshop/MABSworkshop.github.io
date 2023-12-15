@@ -3,21 +3,20 @@ layout: default
 title: Call for Papers
 permalink: /cfp/
 ---
+We are excited to announce the Call for Papers for the 25th International Workshop on Multi-Agent-Based Simulation (MABS 2024), a pivotal event that brings together leading researchers from Multi-Agent Systems (MAS) engineering and the social, economic, and organisational sciences.
 
-MABS 2023 is part of the AAMAS 2023 conference taking place at [ExCel London](https://www.excel.london/){:target="_blank"} in London, UK on May 30, 2023.
+MABS 2024 is part of the AAMAS 2024 conference taking place at [The University of Auckland](https://www.aamas2024-conference.auckland.ac.nz/) in New Zealand on 6th-10th of May, 2024.
 
-The meeting of researchers from Multi-Agent Systems (MAS) engineering, simulation, and the social, economic, and organizational sciences is extensively recognised for its role in cross-fertilization. The synergy among researchers from these fields has undoubtedly been an important source of inspiration for the body of knowledge that has been produced in the area.
+MABS 2024 continues its tradition of fostering cross-fertilisation and innovation in MAS engineering and complex social and sociotechnical systems modeling. The workshop encourages submissions in areas such as simulation methodology and tools, simulation of social and intelligent behaviour, diverse applications, and simulation analytics. 
 
-The MABS workshop series continues with its goal to bring together researchers interested in MAS engineering and simulation, with researchers focused on understanding and finding efficient solutions to model complex social and socio-technical systems, in areas such as economics, management, organizational and social sciences in general.
+The MABS workshop has run alongside the main conference since AAMAS was first held in Bologna in 2002 and continues to attract a diverse and enthusiastic group of participants. This year’s focus will be on ‘Modelling and Simulation of Societies’, which aligns closely with one of the 10 themes of the main AAMAS conference.
 
-In all these areas, agent theories, metaphors, models, analysis, experimental designs, empirical studies, and methodological principles, all converge into simulation as a way of achieving explanations and predictions, conducting exploration and testing of hypotheses, investigating better designs and systems.
-
-We welcome paper submissions from all areas of multi-agent-based simulation and particularly also of work in early stages, which can benefit from active discussions!
+For the MABS workshop, we encourage submission of work that is in a less finished state than we would expect to see at the main conference. We particularly encourage the submission of work that has open questions which would be worthy of discussion at the workshop.
 
 ## Relevant topics
 The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive. Topics relevant to this workshop include, but are not limited to: 
 
-* Simulation methodologies and tools
+**Simulation methodologies and tools**
   + Standards for MABS
   + Methodologies and modeling formalism for MABS
   + Methodologies to combine MABS with other modeling approaches
@@ -25,13 +24,15 @@ The range of technical issues that MABS has dealt with, and continues to deal wi
   + Large-scale and distributed MABS
   + Scalability and robustness in MABS
   + Future challenges in MABS
-* Simulation of Social and Intelligent behavior
+
+**Simulation of Social and Intelligent behavior**
   + Formal and agent models of social behavior
   + Cognitive modeling and simulation
   + Game theory and simulation
   + Social structure, social networks and simulating organizations
   + Simulating social complexity (e.g. structures and norms, social order, emergence of cooperation and coordinated action, self-organization, the micro-macro link)
-* Applications and Empirical Work
+
+**Applications and Empirical Work**
   + MABS for socio-ecological systems
   + MABS for socio-technical systems
   + Agent-based experimental economics
@@ -39,27 +40,44 @@ The range of technical issues that MABS has dealt with, and continues to deal wi
   + MABS and games
   + MABS and cloud computing
   + MABS in governance and policy-making
-* Simulation Analytics
+
+**Simulation Analytics**
   + Visualization and analytic tools for MABS
   + Experimental design for MABS
   + Statistical and data analysis methods for MABS
   + Data mining and machine learning methods for MABS
 
-MABS is a powerful tool that is being used to inform policy or decisions in many fields of practical importance. The use of models in general, and MABS in particular, during the COVID-19 pandemic has evidenced some of their pitfalls to inform intervention policies. Thus, we propose for 2023 to prioritize submissions of papers that explore how to tackle the pitfalls in using MABS to inform policy making.
+**Workshop Format and Location.** After a successful in-person event in London in 2023, MABS 2024 aims to continue this format in New Zealand. The workshop will feature an invited speaker/s, paper presentations, and a concluding panel discussion. The workshop duration and presentation times will be contingent on the number of submissions.
 
-One of the ten areas of interest in the main conference in 2023 is _Modelling and Simulation of Societies_. This aligns closely with this workshop, yet the purpose of the workshop is to foment more active discussions, particularly of work which may still be in early stages and not ready for presentation in the main conference. The MABS workshop has run alongside the main conference since AAMAS was first held in Bologna in 2002 and continues to attract a diverse and enthusiastic group of participants.
+**Audience and Scope.** MABS 2024 welcomes social scientists, policy-makers, AI, MAS, and simulation researchers and developers. It's an ideal platform for those engaged in modelling multi-agent systems and applying agent-based simulation in real-world scenarios.
 
-## Target audience
-The workshop will provide a forum for social scientists, policy-makers, and AI, MAS and simulation researchers and developers, to assess the current state of the art in the agent-based modeling and simulation of social and socio-technical systems, to identify where and discuss how existing approaches can be successfully applied, to learn about new approaches and explore future research challenges, and to exchange ideas and knowledge in an interdisciplinary environment.
+**Proceedings.** Post-proceedings will be reviewed further and published in the Springer LNAI series under "Multi-Agent-Based Simulation XXV, 25th International Workshop, Auckland, May 2024, Revised Papers".
+
+**Target audience.** The workshop will provide a forum for social scientists, policy-makers, and AI, MAS and simulation researchers and developers, to assess the current state of the art in the agent-based modeling and simulation of social and socio-technical systems, to identify where and discuss how existing approaches can be successfully applied, to learn about new approaches and explore future research challenges, and to exchange ideas and knowledge in an interdisciplinary environment.
 
 The workshop will be of interest to researchers engaged in modeling and analyzing multi-agent systems, and those interested in applying agent-based simulation techniques to real-world problems. In addition, it will attract researchers committed to cross-cutting research that is complementary to more orthodox modeling approaches.
 
 MABS intends to be a place where researchers can exchange ideas about their work and we are looking forward to the community meeting once again in person.
 
 ## Submission guidelines
-Submissions are **limited to 12 pages including references** formatted according to the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"} and must be electronically submitted before the submission deadline through the workshop conference system, which is available at: [https://easychair.org/conferences/?conf=mabs2023](https://easychair.org/conferences/?conf=mabs2023){:target="_blank"}
+Submissions are **limited to 12 pages including references** formatted according to the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"} and must be electronically submitted before the submission deadline through the workshop conference system, which is available soon <!-- at: [https://easychair.org/conferences/?conf=mabs2023](https://easychair.org/conferences/?conf=mabs2023){:target="_blank"} -->
 
 All contributions will be peer-reviewed by at least two independent PC members. The evaluation criteria of contributions will be based on originality, quality, clarity, and its relevance to the workshop.
 
 ## Publication
 Following the tradition of the previous MABS workshops, we intend to publish the accepted papers, after a further reviewing process, in the [Springer Multi-Agent-Based Simulation book series, LNAI](https://link.springer.com/conference/mabs){:target="_blank"}.
+
+## Important Dates
+Feb 5: Submission deadline
+Feb 26: Review deadline
+Mar 4: Acceptance/rejection notifications
+Mar 11: Deadline for revised submissions
+Mar 18: Submission of workshop notes
+Apr 8: Preliminary program and online article availability
+May 6/7: Workshop event
+Aug-Dec: Preparation of Post-Proceedings for Springer LNAI
+
+## More information
+For more information or if you have queries relating to the workshop, please contact our MABS workshop co-Chairs:
+**Jason Thompson** - jason.thompson@unimelb.edu.au
+**Ivana Stankov** - ivana.stankov@unisa.edu.au
