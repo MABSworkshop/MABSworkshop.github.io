@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MABS2023
+title: MABS2024
 permlink: /
 ---
 
