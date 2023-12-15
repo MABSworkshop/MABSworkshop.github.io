@@ -5,8 +5,8 @@ permalink: /committees/
 ---
 
 ## Program Chairs
-* [Luis Gustavo Nardin](https://gnardin.github.io/website){:target="_blank"} (Mines Saint-Étienne, France)
-* [Sara Mehryar](https://www.lse.ac.uk/GranthamInstitute/profile/sara-mehryar){:target="_blank"} (London School of Economics, UK)
+* [Jason Thompson](https://findanexpert.unimelb.edu.au/profile/769805-jason-thompson){:target="_blank"} (The UNiversity of Melbourne, Australia)
+* [Ivana Stankov](https://people.unisa.edu.au/Ivana.Stankov){:target="_blank"} (The University of South Australia, Australia)
 
 ## The MABS Steering Committee
 
