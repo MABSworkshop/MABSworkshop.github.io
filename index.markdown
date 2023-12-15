@@ -12,17 +12,25 @@ permlink: /
 
 --- -->
 
-The 2023 Multi-Agent-Based Simulation (MABS) workshop is the 24th of the [MABS series that began in 1998](http://www.pcs.usp.br/~mabs/){:target="_blank"}. Its scientific focus lies in the confluence of social sciences and multi-agent systems, with a strong application/empirical vein, and its emphasis is stressed on (i) exploratory agent based simulation as a principled way of undertaking scientific research in the social sciences and (ii) using social theories as an inspiration to new frameworks and developments in multi-agent systems.
+The 2023 Multi-Agent-Based Simulation (MABS) workshop is the 24th of the [MABS series which began in 1998](http://www.pcs.usp.br/~mabs/){:target="_blank"}. Its scientific focus lies in the confluence of social sciences and multi-agent systems, with a strong application/empirical vein, and its emphasis is stressed on (i) exploratory agent based simulation as a principled way of undertaking scientific research in the social sciences and (ii) using social theories as an inspiration to new frameworks and developments in multi-agent systems.
 
-The excellent quality level of this workshop has been recognized since its inception and its proceedings have been regularly published in Springer's Lecture Notes series. MABS 2023 will be hosted at [AAMAS 2023 (22nd International Conference on Autonomous Agents and Multiagent Systems)](https://aamas2023.soton.ac.uk){:target="_blank"}, which will take place at [ExCel London](https://www.excel.london/){:target="_blank"} in London, UK on May 29-June 02, 2023.
+The excellent quality level of this workshop has been recognized since its inception and its proceedings have been regularly published in Springer's Lecture Notes series. MABS 2024 will be hosted at [AAMAS 2024 (23rd International Conference on Autonomous Agents and Multiagent Systems)](https://www.aamas2024-conference.auckland.ac.nz/){:target="_blank"}, which will take place at the University of Auckland, New Zealand in on May 6th to 10th, 2024.
 
-## Important Dates
-* Submission deadline: <span style="color:red">~~January 30, 2023~~ ~~February 6, 2023~~</span> **February 15, 2023 AOE (Extended)**
-* Authors Notification: <span style="color:red">~~March 13, 2023~~</span> **March 18, 2023**
-* Camera Ready: <span style="color:red">~~March 20, 2023~~</span> **March 28, 2023 AOE**
-* Preliminary Program Published: April 10, 2023
-* MABS 2023 will take place: **May 30, 2023 (Confirmed)**
-* Preparation of post-proceedings (Springer LNAI): 2nd half of 2023
+## Important Dates (2024)
++ Feb 5: Submission deadline
++ Feb 26: Review deadline
++ Mar 4: Acceptance/rejection notifications
++ Mar 11: Deadline for revised submissions
++ Mar 18: Submission of workshop notes
++ Apr 8: Preliminary program and online article availability
++ May 6/7: Workshop event
++ Aug-Dec: Preparation of Post-Proceedings for Springer LNAI
+
 
 ## Program chairs
-Luis Gustavo Nardin and Sara Mehryar
+Jason Thompson (The University of Melbourne)
+
+Ivana Stankov (The University of South Australia)
+
+## Conference coordination assistance
+Rajith Vidanaarachchi (The University of Melbourne)
