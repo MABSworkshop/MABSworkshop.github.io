@@ -12,7 +12,7 @@ permlink: /
 
 --- -->
 
-The 2023 Multi-Agent-Based Simulation (MABS) workshop is the 24th of the [MABS series which began in 1998](http://www.pcs.usp.br/~mabs/){:target="_blank"}. Its scientific focus lies in the confluence of social sciences and multi-agent systems, with a strong application/empirical vein, and its emphasis is stressed on (i) exploratory agent based simulation as a principled way of undertaking scientific research in the social sciences and (ii) using social theories as an inspiration to new frameworks and developments in multi-agent systems.
+The 2024 Multi-Agent-Based Simulation (MABS) workshop is the 25th of the [MABS series which began in 1998](http://www.pcs.usp.br/~mabs/){:target="_blank"}. Its scientific focus lies in the confluence of social sciences and multi-agent systems, with a strong application/empirical vein, and its emphasis is stressed on (i) exploratory agent based simulation as a principled way of undertaking scientific research in the social sciences and (ii) using social theories as an inspiration to new frameworks and developments in multi-agent systems.
 
 The excellent quality level of this workshop has been recognized since its inception and its proceedings have been regularly published in Springer's Lecture Notes series. MABS 2024 will be hosted at [AAMAS 2024 (23rd International Conference on Autonomous Agents and Multiagent Systems)](https://www.aamas2024-conference.auckland.ac.nz/){:target="_blank"}, which will take place at the University of Auckland, New Zealand in on May 6th to 10th, 2024.
 
