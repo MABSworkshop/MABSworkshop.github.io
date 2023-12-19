@@ -14,7 +14,8 @@ The MABS workshop has run alongside the main conference since AAMAS was first he
 For the MABS workshop, we encourage submission of work that is in a less finished state than we would expect to see at the main conference. We particularly encourage the submission of work that has open questions which would be worthy of discussion at the workshop.
 
 **Quick Link to Submission Page**
-Login to Easychair and then submit your abstract here: [Submission Link through Easychair](https://easychair.org/my/conference?conf=mabs2024)
+
+First login to Easychair and then submit your abstract here: [Submission Link through Easychair](https://easychair.org/my/conference?conf=mabs2024)
 
 ## Relevant topics
 The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive. Topics relevant to this workshop include, but are not limited to: 
