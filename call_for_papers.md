@@ -13,6 +13,9 @@ The MABS workshop has run alongside the main conference since AAMAS was first he
 
 For the MABS workshop, we encourage submission of work that is in a less finished state than we would expect to see at the main conference. We particularly encourage the submission of work that has open questions which would be worthy of discussion at the workshop.
 
+## (Quick Link to Submission Page)
+Login to Easychair and then submit your here: https://easychair.org/my/conference?conf=mabs2024
+
 ## Relevant topics
 The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive. Topics relevant to this workshop include, but are not limited to: 
 
@@ -83,6 +86,9 @@ Apr 8: Preliminary program and online article availability
 May 6/7: Workshop event
 
 Aug-Dec: Preparation of Post-Proceedings for Springer LNAI
+
+## Submission Page
+Login to Easychair and then submit your here: https://easychair.org/my/conference?conf=mabs2024
 
 ## More information
 For more information or if you have queries relating to the workshop, please contact our 2024 MABS workshop Chairs and coordinators:
