@@ -89,10 +89,10 @@ May 6/7: Workshop event
 Aug-Dec: Preparation of Post-Proceedings for Springer LNAI
 
 ## Submission Page
-Login to Easychair and then submit your here: https://easychair.org/my/conference?conf=mabs2024
+First login to Easychair and then submit your abstract here: [Easychair submission link](https://easychair.org/my/conference?conf=mabs2024)
 
 ## More information
-For more information or if you have queries relating to the workshop, please contact our 2024 MABS workshop Chairs and coordinators:
+For more information or if you have queries relating to the workshop, please contact our 2024 MABS workshop Chairs and Coordinators:
 
 **Jason Thompson** - jason.thompson@unimelb.edu.au
 
