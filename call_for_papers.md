@@ -15,7 +15,7 @@ For the MABS workshop, we encourage submission of work that is in a less finishe
 
 **Quick Link to Submission Page**
 
-First login to Easychair and then submit your abstract here: [Submission Link through Easychair](https://easychair.org/my/conference?conf=mabs2024)
+First login to Easychair and then submit your abstract here:  [Submission Link through Easychair](https://easychair.org/my/conference?conf=mabs2024)
 
 ## Relevant topics
 The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive. Topics relevant to this workshop include, but are not limited to: 
