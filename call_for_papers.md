@@ -69,12 +69,19 @@ Following the tradition of the previous MABS workshops, we intend to publish the
 
 ## Important Dates
 Feb 5: Submission deadline
+
 Feb 26: Review deadline
+
 Mar 4: Acceptance/rejection notifications
+
 Mar 11: Deadline for revised submissions
+
 Mar 18: Submission of workshop notes
+
 Apr 8: Preliminary program and online article availability
+
 May 6/7: Workshop event
+
 Aug-Dec: Preparation of Post-Proceedings for Springer LNAI
 
 ## More information
