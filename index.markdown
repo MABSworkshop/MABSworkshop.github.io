@@ -12,9 +12,14 @@ permlink: /
 
 --- -->
 
-The 2024 Multi-Agent-Based Simulation (MABS) workshop is the 25th of the [MABS series which began in 1998](http://www.pcs.usp.br/~mabs/){:target="_blank"}. Its scientific focus lies in the confluence of social sciences and multi-agent systems, with a strong application/empirical vein, and its emphasis is stressed on (i) exploratory agent based simulation as a principled way of undertaking scientific research in the social sciences and (ii) using social theories as an inspiration to new frameworks and developments in multi-agent systems.
+The 2024 Multi-Agent-Based Simulation (MABS) workshop is the 25th of the [MABS series which began in 1998](http://www.pcs.usp.br/~mabs/). Its scientific focus lies in the confluence of social sciences and multi-agent systems, with a strong application/empirical vein, and its emphasis is stressed on (i) exploratory agent based simulation as a principled way of undertaking scientific research in the social sciences and (ii) using social theories as an inspiration to new frameworks and developments in multi-agent systems.
 
-The excellent quality level of this workshop has been recognized since its inception and its proceedings have been regularly published in Springer's Lecture Notes series. MABS 2024 will be hosted at [AAMAS 2024 (23rd International Conference on Autonomous Agents and Multiagent Systems)](https://www.aamas2024-conference.auckland.ac.nz/){:target="_blank"}, which will take place at the University of Auckland, New Zealand in on May 6th to 10th, 2024.
+The excellent quality level of this workshop has been recognized since its inception and its proceedings have been regularly published in Springer's Lecture Notes series. MABS 2024 will be hosted at [AAMAS 2024 (23rd International Conference on Autonomous Agents and Multiagent Systems)](https://www.aamas2024-conference.auckland.ac.nz/), which will take place at the University of Auckland, New Zealand in on May 6th to 10th, 2024.
+
+MABS 2024 continues its tradition of fostering cross-fertilisation and innovation in MAS engineering and complex social and sociotechnical systems modeling. The workshop encourages submissions in areas such as simulation methodology and tools, simulation of social and intelligent behaviour, diverse applications, and simulation analytics.
+
+## Keynote Presentation
+The MABS Committee is excited to announce this year's keynote presentation from Professor Pascal Perez, Director of the Australian Urban Research Infrastructure Network (AURIN). Pascal will take us through his rexperiences in urban systems and transport modeling, combining this with his new role in collecting and integrating large-scale urban data sources that form the backbone of AURIN's offering to researchers and multi-agent modellers. 
 
 ## Important Dates (2024)
 + Feb 5: Submission deadline
