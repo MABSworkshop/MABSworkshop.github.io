@@ -19,7 +19,7 @@ The excellent quality level of this workshop has been recognized since its incep
 MABS 2024 continues its tradition of fostering cross-fertilisation and innovation in MAS engineering and complex social and sociotechnical systems modeling. The workshop encourages submissions in areas such as simulation methodology and tools, simulation of social and intelligent behaviour, diverse applications, and simulation analytics.
 
 ## Keynote Presentation
-The MABS Committee is excited to announce this year's keynote presentation from Professor Pascal Perez, Director of the Australian Urban Research Infrastructure Network (AURIN). Pascal will take us through his rexperiences in urban systems and transport modeling, combining this with his new role in collecting and integrating large-scale urban data sources that form the backbone of AURIN's offering to researchers and multi-agent modellers. 
+The MABS Committee is excited to announce this year's keynote presentation from Professor Pascal Perez, Director of the Australian Urban Research Infrastructure Network (AURIN). Pascal will take us through his experiences in urban systems and transport modeling, combining this with his new role in integrating large-scale urban data sources that form the backbone of AURIN's offering to researchers and multi-agent modellers. 
 
 ## Important Dates (2024)
 + Feb 5: Submission deadline
