@@ -41,5 +41,6 @@ permalink: /committees/
 * Fjalar	de Haan,	School of Computing and Information Systems & Melbourne Centre for Data Science, The University of Melbourne
 * Bill	Kennedy,	George Mason University
 * Paulo	Novais,	University of Minho
+* Sung-Bae Chao, Yonsei University
 
 
