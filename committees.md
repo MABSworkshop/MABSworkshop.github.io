@@ -42,5 +42,6 @@ permalink: /committees/
 * Bill	Kennedy,	George Mason University
 * Paulo	Novais,	University of Minho
 * Sung-Bae Chao, Yonsei University
+* Jason Thompson, Transport, Health & Urban Systems Research Lab, The University of Melbourne. 
 
 
