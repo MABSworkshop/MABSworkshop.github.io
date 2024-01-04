@@ -44,5 +44,7 @@ permalink: /committees/
 * Sung-Bae Chao, Yonsei University
 * Jason Thompson, Transport, Health & Urban Systems Research Lab, The University of Melbourne
 * Gustavo	Giménez-Lugo, Federal University of Technology-Paraná (UTFPR)
+* Nick	Gotts
+* Elizabeth	Sklar, University of Lincoln
 
 
