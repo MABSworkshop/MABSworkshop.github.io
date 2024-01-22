@@ -44,6 +44,10 @@ permalink: /committees/
 * Sung-Bae Chao, Yonsei University
 * Jason Thompson, Transport, Health & Urban Systems Research Lab, The University of Melbourne
 * Gustavo	Giménez-Lugo, Federal University of Technology-Paraná (UTFPR)
+* Ruth Meyer, Fraunhofer Institute for High-Speed Dynamics, Ernst Mach Institute (EMI)
+* Nick Gotts
+* Elizabeth Sklar, UNiversity of Lincoln
+* Natalie Van Der Wal, Delft University of Technology
 * Nick	Gotts
 * Elizabeth	Sklar, University of Lincoln
 
