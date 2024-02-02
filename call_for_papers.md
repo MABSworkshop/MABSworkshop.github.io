@@ -105,5 +105,7 @@ For more information or if you have queries relating to the workshop, please con
 ## Sponsors
 The MABS workshop is proudly supported by the European Social Simulation Association
 
+![ESSA logo](/least-github-pages/assets/ESSA Logo 300.png)
+
 
 
