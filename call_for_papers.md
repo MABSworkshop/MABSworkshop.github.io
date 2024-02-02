@@ -102,3 +102,8 @@ For more information or if you have queries relating to the workshop, please con
 
 **Rajith Vidanaarachchi** - rajith.v@unimelb.edu.au
 
+## Sponsors
+The MABS workshop is proudly supported by the European Social Simulation Association
+
+
+
