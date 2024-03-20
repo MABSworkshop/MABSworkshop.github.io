@@ -22,13 +22,13 @@ MABS 2024 continues its tradition of fostering cross-fertilisation and innovatio
 The MABS Committee is excited to announce this year's keynote presentation from Professor Pascal Perez, Director of the Australian Urban Research Infrastructure Network (AURIN). Pascal will take us through his experiences in urban systems and transport modeling, combining this with his new role in integrating large-scale urban data sources that form the backbone of AURIN's offering to researchers and multi-agent modellers. 
 
 ## Important Dates (2024)
-+ Feb 5: Submission deadline
-+ Feb 26: Review deadline
-+ Mar 4: Acceptance/rejection notifications
-+ Mar 11: Deadline for revised submissions
-+ Mar 18: Submission of workshop notes
++ Feb 12: Submission deadline
++ Mar 1: Review deadline
++ Mar 5: Acceptance/rejection notifications
++ Mar 18: Deadline for revised submissions
++ Mar 25: Submission of workshop notes
 + Apr 8: Preliminary program and online article availability
-+ May 6/7: Workshop event
++ May 6: Workshop event
 + Aug-Dec: Preparation of Post-Proceedings for Springer LNAI
 
 
