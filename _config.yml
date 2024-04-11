@@ -16,7 +16,7 @@ header_pages:
 #  - invited.md
    - program.md
 #  - postproceedings.md
-  - mabs_series.md
+   - mabs_series.md
   
 # Build settings
 theme: minima
