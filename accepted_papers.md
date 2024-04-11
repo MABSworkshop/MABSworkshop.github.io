@@ -6,7 +6,7 @@ permalink: /accepted_papers/
 
 | Author(s) | Title |
 |-----------|-------|
-| Abinet K. Habtemariam, Antonio Kruse, Luis Brunnabend, Kai Fischer and Alexander Stolz	|	Modeling crowd dynamics during vehicle ramming attacks
+| Abinet K. Habtemariam, Antonio Kruse, Luis Brunnabend, Kai Fischer and Alexander Stolz	|	Modeling crowd dynamics during vehicle ramming attacks / 
 | Mathieu Bourgais, Arnaud Saval, Pierrick Tranouez, Eric Daudé and Olivier Gillet	|	Designing a Serious Game of crisis management on top of an Agent-Based Simulation of population evacuation
 |	Guillaume Muller, Somsakun Maneerat and Alan Adamiak	|	KEMASS: Knowledge-Enhanced Multi-Agent (digital) twin for energy Scheduling Support
 |	Xiangmin Yang, Liu Yang, Arnab Majumdar and Washington Ochieng	|	Inferring pedestrian decision-making through inverse reinforcement learning
