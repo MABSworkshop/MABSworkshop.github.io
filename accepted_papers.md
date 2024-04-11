@@ -6,17 +6,13 @@ permalink: /accepted_papers/
 
 | Author(s) | Title |
 |-----------|-------|
-| Alexandru-Ionut Babeanu, Tatiana Filatova, Jan H. Kwakkel and Neil Yorke-Smith                                             | Adaptive Parallelization of Multi-Agent Simulations with Localized Dynamics |
-| Alexey Tregubov, Jeremy Abramson, Christophe Hauser, Alefiya Hussain and Jim Blythe                                        | Modeling Cognitive Workload in Open-Source Communities via Simulation |
-| Aliyu Tanko Ali, Tim Schrills, Andreas Schuldei, Leonard Stellbrink, André Calero Valdez, Martin Leucker and Thomas Franke | Multi-Agent Simulation of Intelligent Resource Regulation in Integrated Energy and Mobility |
-| Benjamin C. D. de Bosscher, S. Sahand Mohammadi Ziabari and Alexei Sharpanskykh                                            | Towards a Better Understanding of Agent-based Airport Terminal Operations Using Surrogate Modeling |
-| Callum Rhys Tilbury                                                                                                        | Reinforcement Learning for Economic Policy: A New Frontier? |
-| Emil Johansson, Fabian Lorig and Paul Davidsson                                                                            | Aspects of Modeling Human Behavior in Agent-Based Social Simulation – What Can We Learn from the COVID-19 Pandemic? |
-| Fatih Ozhamaratli and Paolo Barucca                                                                                        | Multi-Agent Financial Systems with RL: A Pension Ecosystem Case (WIP) |
-| H. Van Dyke Parunak                                                                                                        | Learning Agent Goal Structures by Evolution |
-| Jean Springsteen and William Yeoh                                                                                          | Effects of Affective Polarization on Ideological Polarization due to Algorithmic Filtering |
-| Maarten Jensen, Loïs Vanhée and Frank Dignum                                                                               | Dynamic Context-Sensitive Deliberation |
-| Robert Axtell and Scott Eldridge                                                                                           | Recursive Agent-Based Models in which Certain Agents Utilize their own Agent-Based Models |
-| Sami Saliba, Faraz Dadgostari, Stefan Hoops, Henning Mortveit and Samarth Swarup                                           | Active Sensing for Epidemic State Estimation Using ABM-Guided Machine Learning |
-| Veronika Kurchyna, Jan Ole Berndt and Ingo J. Timm                                                                         | Can (and Should) Automated Surrogate Modelling be used for Simulation Assistance? |
-| Zhanhua Pan, Zhaoxia Jing, Tianyao Ji and Yuhui Song                                                                       | A Multi-Agent Simulation Model Considering the Bounded Rationality of Market Participants: An Example of GENCOs Participation in the Electricity Spot Market |
+|	Abinet K. Habtemariam, Antonio Kruse, Luis Brunnabend, Kai Fischer and Alexander Stolz	|	Modeling crowd dynamics during vehicle ramming attacks
+|	Mathieu Bourgais, Arnaud Saval, Pierrick Tranouez, Eric Daudé and Olivier Gillet	|	Designing a Serious Game of crisis management on top of an Agent-Based Simulation of population evacuation
+|	Guillaume Muller, Somsakun Maneerat and Alan Adamiak	|	KEMASS: Knowledge-Enhanced Multi-Agent (digital) twin for energy Scheduling Support
+|	Xiangmin Yang, Liu Yang, Arnab Majumdar and Washington Ochieng	|	Inferring pedestrian decision-making through inverse reinforcement learning
+|	Peng Lu, Dianhan Chen and Pengfei Lv	|	Crowd Evacuation Dynamics under Shooting Attacks in Multi-story Buildings
+|	Fabian Lorig, Michael Belfrage and Emil Johansson	|	Teaching Agent-based Modeling for Simulating Social Systems – A Research-based Learning Approach
+|	Fjalar de Haan and Jason Thompson	|	GENSIMO — A Generic Framework for Modelling Social Insurance Systems
+|	Gayani Senanayake and Minh Kieu	|	Inverse Generative Approach for Identifying Agent-Based Models from Stochastic Primitives
+|	Hyesop Shin, Eric Silverman, Alison Heppenstall, Nick Malleson, Mario Ilic, Sonali Abeysinghe and Tabea Sonnenschein	|	Are Low Emission Zones Impactful for Air Quality and Human Health?
+![image](https://github.com/MABSworkshop/MABSworkshop.github.io/assets/26786241/5496a81e-117a-4cc0-91c1-8661f652017d)
