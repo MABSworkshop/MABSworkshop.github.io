@@ -4,7 +4,7 @@ title: Accepted Papers
 permalink: /accepted_papers/
 ---
 
-| Paper Number | Author(s) | Title |
+| Author(s) | Title |
 |-----------|-------|
 | Abinet K. Habtemariam, Antonio Kruse, Luis Brunnabend, Kai Fischer and Alexander Stolz	|	Modeling crowd dynamics during vehicle ramming attacks
 | Mathieu Bourgais, Arnaud Saval, Pierrick Tranouez, Eric Daudé and Olivier Gillet	|	Designing a Serious Game of crisis management on top of an Agent-Based Simulation of population evacuation
