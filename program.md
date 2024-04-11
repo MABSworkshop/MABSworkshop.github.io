@@ -27,8 +27,8 @@ permalink: /program/
 | 10:50 AM - 11:10 AM | Gayani Senanayake et al. - "Inverse Generative Approach for Identifying Agent-Based Models from Stochastic Primitives" |
 | 11:10 AM - 11:30 AM | Peng Lu et al. - "Crowd Evacuation Dynamics under Shooting Attacks in Multi-story Buildings" |
 | 11:30 AM - 11:50 AM | Fabian Lorig et al. - "Teaching Agent-based Modeling for Simulating Social Systems – A Research-based Learning Approach" |
-| 11:50 AM - 12:10 PM | Xiangmin Yang et al. - "Inferring pedestrian decision-making through inverse reinforcement learning" (conflict) |
-| 12:10 PM - 12:30 PM | Fjalar de Haan and Jason Thompson - "GENSIMO — A Generic Framework for Modelling Social Insurance Systems" (conflict) |
+| 11:50 AM - 12:10 PM | Xiangmin Yang et al. - "Inferring pedestrian decision-making through inverse reinforcement learning" |
+| 12:10 PM - 12:30 PM | Fjalar de Haan and Jason Thompson - "GENSIMO — A Generic Framework for Modelling Social Insurance Systems" [<a href="../articles/MABS_2024_paper_7.pdf" target="_blank">PDF</a>] |
 
 ## Lunch Break
 
