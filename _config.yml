@@ -14,7 +14,7 @@ header_pages:
   - accepted_papers.md
   - registration.md
 #  - invited.md
-#  - program.md
+  - program.md
 #  - postproceedings.md
   - mabs_series.md
   
