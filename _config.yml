@@ -13,8 +13,8 @@ header_pages:
   - call_for_papers.md
   - accepted_papers.md
   - registration.md
-#  - invited.md
   - program.md
+#  - invited.md
 #  - postproceedings.md
    - mabs_series.md
   
