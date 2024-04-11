@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 
-<table id="mabs2023-schedule">
+<table id="mabs2024-schedule">
   <tbody>
     <tr>
       <td align="left" valign="top" style="width: 17%;">8h15 - 8h40</td>
