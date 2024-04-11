@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 
-## Preliminary Program
+## Preliminary Program - Monday May 6th
 
 ## Morning Session
 
