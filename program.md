@@ -12,7 +12,7 @@ permalink: /program/
 |-----------------|-----------------------------------------------------------------------|
 | 8:30 AM - 8:45 AM | Arrival and Registration                                              |
 | 8:45 AM - 9:00 AM | General Introduction by Associate Professor Jason Thompson and Dr Ivana Stankov |
-| 9:00 AM - 9:45 AM | Keynote Speech by Professor Pascal Perez                               |
+| 9:00 AM - 9:45 AM | Keynote Speech by Professor Pascal Perez - Professor Pascal Perez is currently Director of the Australian Urban Research Infrastructure Network (AURIN), a National Research Infrastructure facility funded by NCRIS and hosted by the University of Melbourne. He is a specialist of Integrative Social Simulation, using Multi-Agent Systems technologies to explore complex infrastructure systems. He is a Fellow if the Royal Society of NSW and the Modelling and Simulation Society of Australia and New Zealand (MSSANZ). In 2002, he received an ARC-International Linkage Fellowship to develop social modelling research at the Australian National University. Professor Perez has published 200 refereed articles and book chapters. In 2006, he co-edited with his colleague David Batten the book ‘Complex Science for a Complex World’ (ANU E Press).                               |
 | 9:45 AM - 10:00 AM | Q&A for Keynote Speech                                                |
 
 ## Coffee Break
