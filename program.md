@@ -44,7 +44,6 @@ permalink: /program/
 | Time            | Presentation                                                                 |
 |-----------------|------------------------------------------------------------------------------|
 | 2:00 PM - 2:20 PM | Guillaume Muller et al. - "KEMASS: Knowledge-Enhanced Multi-Agent (digital) twin for energy Scheduling Support" [<a href="../articles/MABS_2024_paper_3.pdf" target="_blank">PDF</a>]|
-| 2:20 PM - 2:40 PM | Mathieu Bourgais et al. - "Designing a Serious Game of crisis management on top of an Agent-Based Simulation of population evacuation" [<a href="../articles/MABS_2024_paper_2.pdf" target="_blank">PDF</a>]|
 | 2:40 PM - 3:00 PM | Closing Remarks / Open Discussion                                            |
 
 
