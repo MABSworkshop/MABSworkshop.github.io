@@ -32,18 +32,14 @@ permalink: /program/
 | 11:30 AM - 11:50 AM | Fabian Lorig et al. - "Teaching Agent-based Modeling for Simulating Social Systems – A Research-based Learning Approach" [<a href="../articles/MABS_2024_paper_6.pdf" target="_blank">PDF</a>]|
 | 11:50 AM - 12:10 PM | Xiangmin Yang et al. - "Inferring pedestrian decision-making through inverse reinforcement learning" [<a href="../articles/MABS_2024_paper_4.pdf" target="_blank">PDF</a>]|
 | 12:10 PM - 12:30 PM | Fjalar de Haan and Jason Thompson - "GENSIMO — A Generic Framework for Modelling Social Insurance Systems" [<a href="../articles/MABS_2024_paper_7.pdf" target="_blank">PDF</a>] |
+| 12:30 PM - 12:50 PM | Guillaume Muller et al. - "KEMASS: Knowledge-Enhanced Multi-Agent simulation for energy Scheduling Support" [<a href="../articles/MABS_2024_paper_3.pdf" target="_blank">PDF</a>]|
+| 12:50 PM - 1:00 PM | Closing Remarks / Open Discussion                                            |
 
-## Lunch Break
+## Lunch
 
 | Time            | Event   |
 |-----------------|---------|
-| 12:30 PM - 2:00 PM | Lunch   |
-
-## Second Presentation Block
-
-| Time            | Presentation                                                                 |
-|-----------------|------------------------------------------------------------------------------|
-| 2:00 PM - 2:20 PM | Guillaume Muller et al. - "KEMASS: Knowledge-Enhanced Multi-Agent (digital) twin for energy Scheduling Support" [<a href="../articles/MABS_2024_paper_3.pdf" target="_blank">PDF</a>]|
-| 2:40 PM - 3:00 PM | Closing Remarks / Open Discussion                                            |
+| 1:00 PM - 2:00 PM | Lunch   |
+                                  |
 
 
