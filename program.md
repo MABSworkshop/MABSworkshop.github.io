@@ -6,6 +6,8 @@ permalink: /program/
 
 ## Preliminary Program - Monday May 6th
 
+Please note - Workshop presenters can plug-in their laptops to the projector in the conference rooms OR they can bring a USB and transfer their files to the computer in the room (and this would be a good back up plan also). If you woudl like to send your presentation ahead of time, please email it to jason.thompson@unimelb.edu.au.  
+
 ## Morning Session
 
 | Time            | Event                                                                 |
