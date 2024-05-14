@@ -14,7 +14,7 @@ Please note - Workshop presenters can plug-in their laptops to the projector in 
 |-----------------|-----------------------------------------------------------------------|
 | 8:30 AM - 8:45 AM | Arrival and Registration                                              |
 | 8:45 AM - 9:00 AM | General Introduction by Associate Professor Jason Thompson and Dr Ivana Stankov |
-| 9:00 AM - 9:45 AM | Keynote Speech by Professor Pascal Perez - 'From drug epidemics to urban futures – a life with agents’ [<a href="../articles/MABS 2024 Keynote Perez.pdf" target="_blank">PDF</a>]|
+| 9:00 AM - 9:45 AM | Keynote Speech by Professor Pascal Perez - 'From drug epidemics to urban futures – a life with agents’ [<a href="../articles/MABS 2024 - keynote - Perez.pdf" target="_blank">PDF</a>]|
 ||Professor Pascal Perez is currently Director of the Australian Urban Research Infrastructure Network (AURIN), a National Research Infrastructure facility funded by NCRIS and hosted by the University of Melbourne. He is a specialist of Integrative Social Simulation, using Multi-Agent Systems technologies to explore complex infrastructure systems. He is a Fellow of the Royal Society of NSW and the Modelling and Simulation Society of Australia and New Zealand (MSSANZ).|                               |
 | 9:45 AM - 10:00 AM | Q&A for Keynote Speech                                                |
 
