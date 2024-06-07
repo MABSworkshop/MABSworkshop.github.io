@@ -28,7 +28,7 @@ Please note - Workshop presenters can plug-in their laptops to the projector in 
 
 | Time            | Presentation                                                                 |
 |-----------------|------------------------------------------------------------------------------|
-| 10:30 AM - 10:50 AM | Hyesop Shin et al. - "Are Low Emission Zones Impactful for Air Quality and Human Health?" [witheld"_blank">PDF</a>]|
+| 10:30 AM - 10:50 AM | Hyesop Shin et al. - "Are Low Emission Zones Impactful for Air Quality and Human Health?" [paper witheld - please contact the authors if this is of interest]|
 | 10:50 AM - 11:10 AM | Gayani Senanayake et al. - "Inverse Generative Approach for Identifying Agent-Based Models from Stochastic Primitives" [<a href="../articles/MABS_2024_paper_8.pdf" target="_blank">PDF</a>]|
 | 11:10 AM - 11:30 AM | Peng Lu et al. - "Crowd Evacuation Dynamics under Shooting Attacks in Multi-story Buildings" [<a href="../articles/MABS_2024_Paper_5.pdf" target="_blank">PDF</a>]|
 | 11:30 AM - 11:50 AM | Fabian Lorig et al. - "Teaching Agent-based Modeling for Simulating Social Systems – A Research-based Learning Approach" [<a href="../articles/MABS_2024_paper_6.pdf" target="_blank">PDF</a>]|
