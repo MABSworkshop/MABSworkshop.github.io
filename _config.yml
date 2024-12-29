@@ -1,12 +1,12 @@
-title: MABS 2023 - The 24th International Workshop on Multi-Agent-Based Simulation
-email: mabs2023@easychair.org
+title: MABS 2025 - The 26th International Workshop on Multi-Agent-Based Simulation
+email: tbd
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
-  name: MABS2023
-  email: "mabs2023@easychair.org"
+  name: MABS2025
+  email: "tbd"
 
 header_pages:
   - committees.md
