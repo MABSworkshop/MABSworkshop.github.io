@@ -4,6 +4,8 @@ title: Registration
 permalink: /registration/
 ---
 
-To participate in MABS 2023, please register through the main AAMAS 2023 conference [here](https://aamas2023.soton.ac.uk/registration/registration-instructions/){:target="_blank"}.
+MABS workshop registration details coming soon!
 
-Please make sure you read the [terms and conditions](https://aamas2023.soton.ac.uk/registration/registration-instructions/#terms){:target="_blank"} before registering.
+To participate in MABS 2024, please register through the main AAMAS 2024 conference [here](https://www.aamas2024-conference.auckland.ac.nz/registration/).
+
+
