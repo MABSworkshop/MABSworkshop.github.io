@@ -5,7 +5,7 @@ permalink: /committees/
 ---
 
 ## Program Chairs
-* [Samarth Swarup](https://sites.google.com/view/samarthswarup){:target="_blank"} (The University of Melbourne, Australia)
+* [Samarth Swarup](https://sites.google.com/view/samarthswarup){:target="_blank"} (University of Virginia, USA)
 * [Alicia Vidler](){:target="_blank"} (University of New South Wales, Australia)
 
 ## The MABS Steering Committee
