@@ -101,11 +101,13 @@ Aug-Dec: Preparation of Post-Proceedings for Springer LNAI
 _Forthcoming_
 
 ## More information
-For more information or if you have queries relating to the workshop, please contact our 2025 MABS workshop Chairs and Coordinators:
+For more information or if you have queries relating to the workshop, please contact our 2025 MABS workshop Chairs:
 
-**Samarth Swarup** - swarup@virginia.edu
+**Samarth Swarup**
 
-**Alicia Vidler** - a.vidler@unsw.edu.au
+**Alicia Vidler**
+
+You can reach both chairs by sending email to mabs2025workshop@gmail.com.
 
 ## Sponsors
 The MABS workshop is proudly supported by the European Social Simulation Association
