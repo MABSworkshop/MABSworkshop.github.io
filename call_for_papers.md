@@ -3,7 +3,7 @@ layout: default
 title: Call for Papers
 permalink: /cfp/
 ---
-We are excited to announce the Call for Papers for the 25th International Workshop on Multi-Agent-Based Simulation (MABS 2025), a pivotal event that brings together leading researchers from Multi-Agent Systems (MAS) engineering and the social, economic, and organisational sciences.
+We are excited to announce the Call for Papers for the 26th International Workshop on Multi-Agent-Based Simulation (MABS 2025), a pivotal event that brings together leading researchers from Multi-Agent Systems (MAS) engineering and the social, economic, and organisational sciences.
 
 MABS 2025 is part of the [AAMAS 2025 conference](https://www.aamas2024-conference.auckland.ac.nz/) taking place in Detroit, Michigan, USA from the 19th to the 23rd of May, 2025.
 
