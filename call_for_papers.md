@@ -15,7 +15,7 @@ For the MABS workshop, we encourage submission of work that is in a less finishe
 
 **Quick Link to Submission Page**
 
-_Forthcoming_
+[MABS OpenReview](https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/MABS)
 
 ## Relevant topics
 The range of technical issues that MABS has dealt with, and continues to deal with, is quite diverse and extensive. Topics relevant to this workshop include, but are not limited to: 
