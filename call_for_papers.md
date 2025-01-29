@@ -73,7 +73,7 @@ MABS intends to be a place where researchers can exchange ideas about their work
 ## Submission guidelines
 Submissions are **limited to 12 pages including references** formatted according to the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines){:target="_blank"} and must be electronically submitted before the submission deadline through the workshop conference system, which is available here:
 
-_Forthcoming_
+[MABS OpenReview](https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/MABS)
 
 All contributions will be peer-reviewed by at least two independent PC members. The evaluation criteria of contributions will be based on originality, quality, clarity, and its relevance to the workshop.
 
@@ -98,7 +98,7 @@ May 19/20: Workshop event, Detroit USA
 Aug-Dec: Preparation of Post-Proceedings for Springer LNAI
 
 ## Submission Page
-_Forthcoming_
+[MABS OpenReview](https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/MABS)
 
 ## More information
 For more information or if you have queries relating to the workshop, please contact our 2025 MABS workshop Chairs:
