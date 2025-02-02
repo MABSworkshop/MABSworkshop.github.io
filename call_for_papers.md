@@ -81,9 +81,9 @@ All contributions will be peer-reviewed by at least two independent PC members. 
 Following the tradition of the previous MABS workshops, we intend to publish the accepted papers, after a further reviewing process, in the [Springer Multi-Agent-Based Simulation book series, LNAI](https://link.springer.com/conference/mabs){:target="_blank"}.
 
 ## Important Dates
-Feb 4, 2025: Submission deadline
+~~Feb 4~~ Feb 11, 2025: Submission deadline (extended)
 
-Feb 26: Review deadline
+~~Feb 26~~ Mar 3: Review deadline
 
 Mar 23: Acceptance/rejection notifications
 
