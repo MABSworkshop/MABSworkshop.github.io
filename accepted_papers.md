@@ -6,8 +6,18 @@ permalink: /accepted_papers/
 
 | Author(s) | Title |
 |-----------|-------|
-| Abinet K. Habtemariam, Antonio Kruse, Luis Brunnabend, Kai Fischer and Alexander Stolz	|	Modeling crowd dynamics during vehicle ramming attacks / 
-| Mathieu Bourgais, Arnaud Saval, Pierrick Tranouez, Eric Daudé and Olivier Gillet	|	Designing a Serious Game of crisis management on top of an Agent-Based Simulation of population evacuation
+| Jeremy Cofield, Umer Siddique, Yongcan Cao	|	MODIFLY: A Scalable End-to-end Multi-Agent Simulation for Unmanned Aerial Vehicles/ 
+| Keng-Lien Lin, Parinaz Naghizadeh	|	MultiRepast4py: A Framework for Agent-Based Simulations on Multilayer Networks
+| Kazi Ashik Islam, S. S. Ravi, Henning Mortveit, Samarth Swarup  | Adjustable Attribute Matching in Digital Similars of Populations
+| William Pittenger, Ethan Beaird, Sandip Sen  | Use of Tags and Group Selection to Engender Cooperation in player Snowdrift Game
+| Janik Muires, Lennard Sund, Tobias Ramm, Wolfgang Ketter  | Balancing Shared Mobility Fleet Sizes: A Simulation-Driven Evolutionary Approach
+
+
+
+
+
+
+
 |	Guillaume Muller, Somsakun Maneerat and Alan Adamiak	|	KEMASS: Knowledge-Enhanced Multi-Agent (digital) twin for energy Scheduling Support
 |	Xiangmin Yang, Liu Yang, Arnab Majumdar and Washington Ochieng	|	Inferring pedestrian decision-making through inverse reinforcement learning
 |	Peng Lu, Dianhan Chen and Pengfei Lv	|	Crowd Evacuation Dynamics under Shooting Attacks in Multi-story Buildings
