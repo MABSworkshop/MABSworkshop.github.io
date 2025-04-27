@@ -18,6 +18,7 @@ Please note - Workshop presenters can plug-in their laptops to the projector in 
 
 ##[<a href="../articles/MABS 2024 - keynote - Perez.pdf" target="_blank">PDF</a>]|
 ##||Professor Pascal Perez is currently Director of the Australian Urban Research Infrastructure Network (AURIN), a National Research Infrastructure facility funded by NCRIS and hosted by the University of Melbourne. He is a specialist of ##Integrative Social Simulation, using Multi-Agent Systems technologies to explore complex infrastructure systems. He is a Fellow of the Royal Society of NSW and the Modelling and Simulation Society of Australia and New Zealand (MSSANZ).|                               |
+
 | 9:45 AM - 10:00 AM | Q&A for Keynote Speech                                                |
 
 ## Coffee Break
@@ -29,7 +30,7 @@ Please note - Workshop presenters can plug-in their laptops to the projector in 
 | Time            | Presentation                                                                 |
 |-----------------|------------------------------------------------------------------------------|
 | 10:30 AM - 10:50 AM | Jeremy Cofield, Umer Siddique, Yongcan Cao - "MODIFLY: A Scalable End-to-end Multi-Agent Simulation for Unmanned Aerial Vehicles" |
-| 10:50 AM - 11:10 AM | Petra Ahrweiler, Nigel Gilbert, Martha Bicket, Albert Sabater Coll, Elisabeth Spaeth, Hassan Bashiri, Ebin Deni Raj, Blanca Luque Capellas - "AGENT-BASED MODELLING FOR PUBLIC SOCIAL SERVICE DISTRIBUTION" |
+| 10:50 AM - 11:10 AM | Petra Ahrweiler, Nigel Gilbert, Martha Bicket, Albert Sabater Coll, Elisabeth Spaeth, Hassan Bashiri, Ebin Deni Raj, Blanca Luque Capellas - "Agent-Based Modelling for Public Social Service Distribution" |
 | 11:10 AM - 11:30 AM | Elisa Cueille, Benoit Gaudou, Nicolas Verstaevel, Manon Prédhumeau - "Assessing the impact of crisis cell decisions during flash flood" |
 | 11:30 AM - 11:50 AM | H. Van Dyke Parunak - "Insects and Agents: Extending the Metaphor" |
 | 11:50 AM - 12:10 PM | William Pittenger, Ethan Beaird, Sandip Sen - "Use of Tags and Group Selection to Engender Cooperation in player Snowdrift Game" |
@@ -66,7 +67,7 @@ Please note - Workshop presenters can plug-in their laptops to the projector in 
 | Time            | Presentation                                                                 |
 |-----------------|------------------------------------------------------------------------------|
 | 4:30 PM - 4:50 PM | Keng-Lien Lin, Parinaz Naghizadeh - "MultiRepast4py: A Framework for Agent-Based Simulations on Multilayer Networks" |
-| 4:50 PM - 5:30 PM | Panel discussion: TBC - "MultiRepast4py: A Framework for Agent-Based Simulations on Multilayer Networks" |
+| 4:50 PM - 5:30 PM | Panel discussion: TBC - " TBC" |
 | 5:30 PM - 5:45 PM | Closing Remarks / Open Discussion                                            |
 
 
