@@ -16,7 +16,7 @@ Please note - Workshop presenters can plug-in their laptops to the projector in 
 | 8:45 AM - 9:00 AM | General Introduction by Samarth Swarup, Research Associate Professor, Biocomplexity Institute of  University of Virginia |
 | 9:00 AM - 10:00 AM | Keynote Speech by Nirav Ajmeri - 'Social Simulations for Prosocial Multiagent Interactions’ 
 
-##[<a href="../articles/MABS 2024 - keynote - Perez.pdf" target="_blank">PDF</a>]|
+
 |Nirav Ajmeri is a Senior Lecturer in Artificial Intelligence at the University of Bristol’s School of Computer Science. He is the Deputy Director of the UKRI AI for Collective Intelligence Hub and the Responsible AI Co-Lead for the UKRI Centre for Doctoral Training in Practice-Oriented AI. Nirav’s research interests are in intelligent agents and multi-agent systems, with an emphasis on ethics and fairness in socio-technical systems involving humans, organisations, and computational agents. His research seeks to design ethical socio-technical systems and develop socially intelligent computational agents that support their users in satisfactory decision-making, which involves navigating societal norms and accounting for diverse human value preferences.|                               |
 
 | 9:45 AM - 10:00 AM | Q&A for Keynote Speech                                                |
