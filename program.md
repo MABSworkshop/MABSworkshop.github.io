@@ -21,11 +21,14 @@ Nirav Ajmeri is a Senior Lecturer in Artificial Intelligence at the University o
 
 
 ## Coffee Break
+
 | Time            | Event                    |
 |-----------------|--------------------------|
 | 10:00 AM - 10:30 AM | Coffee Break             |
 
+
 ## First Presentation Block
+
 | Time            | Presentation                                                                 |
 |-----------------|------------------------------------------------------------------------------|
 | 10:30 AM - 10:50 AM | Jeremy Cofield, Umer Siddique, Yongcan Cao - "MODIFLY: A Scalable End-to-end Multi-Agent Simulation for Unmanned Aerial Vehicles" |
