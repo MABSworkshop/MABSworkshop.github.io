@@ -42,3 +42,10 @@ The PDF version of your extended paper and signed IFIP consent form must be sent
 * PDF version of the paper
 * a signed Copyright Form (**PDF format**). The pre-filled template can be downloaded [here](../assets/file/MABS2023-PostProceeding-Agreement.docx){:target="_blank"} below.
 * the source files of the final version of your paper (**LaTeX only**)
+
+## Speacial note regarding details for IFIP consent forms
+Please note the following details for the form:
+* Title of book series: Lecture Notes in Artificial Intelligence (LNAI) 
+* Volume Editor(s) Names: Samarth Swarup and Alicia Vidler
+* Title of the Book or Conference Name: 26th International Workshop on Multi-Agent-Based Simulation (MABS 2025)
+
