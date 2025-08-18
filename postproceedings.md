@@ -43,7 +43,7 @@ The PDF version of your extended paper and signed IFIP consent form must be sent
 * a signed Copyright Form (**PDF format**). The pre-filled template can be downloaded [here](../assets/file/MABS2023-PostProceeding-Agreement.docx){:target="_blank"} below.
 * the source files of the final version of your paper (**LaTeX only**)
 
-## Speacial note regarding details for IFIP consent forms
+## Special note regarding details for IFIP consent forms
 Please note the following details for the form:
 * Title of book series: Lecture Notes in Artificial Intelligence (LNAI) 
 * Volume Editor(s) Names: Samarth Swarup and Alicia Vidler
