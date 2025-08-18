@@ -16,7 +16,7 @@ header_pages:
    - registration.md
    - program.md
 #  - invited.md
-#  - postproceedings.md
+   - postproceedings.md
    - mabs_series.md
   
 # Build settings
