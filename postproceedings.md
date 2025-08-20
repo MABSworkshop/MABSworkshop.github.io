@@ -45,7 +45,7 @@ The PDF version of your extended paper and signed IFIP consent form must be sent
 
 ## Special note regarding details for IFIP consent forms
 Please note the following details for the form:
-* Title of book series: Lecture Notes in Artificial Intelligence (LNAI) 
+* Title of book series: Lecture Notes of Computer Science 
 * Volume Editor(s) Names: Samarth Swarup and Alicia Vidler
 * Title of the Book or Conference Name: 26th International Workshop on Multi-Agent-Based Simulation (MABS 2025)
 
