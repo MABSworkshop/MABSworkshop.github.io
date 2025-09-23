@@ -40,7 +40,7 @@ If you wish to participate in the proceeding publication with your accepted pape
 ## How to Submit (Deadline September 30th)
 The PDF version of your extended paper and signed IFIP consent form must be sent to the Proceedings Chairs using the email [mabs2025workshop@gmail.com](mailto:mabs2025workshop@gmail.com) and [aliciavidler@gmail.com](mailto:aliciavidler@gmail.com) by the submission deadline containing:
 * PDF version of the paper
-* a signed Copyright Form (**PDF format**). The pre-filled template can be downloaded [here](../assets/file/MABS2023-PostProceeding-Agreement.docx){:target="_blank"} below.
+* a signed Copyright Form (**PDF format**). https://resource-cms.springernature.com/springer-cms/rest/v1/content/19790018/data/SNCS_ProceedingsPaper_LTP_ST_SN_Switzerland 
 * the source files of the final version of your paper (**LaTeX only**)
 
 ## Special note regarding details for IFIP consent forms
