@@ -10,7 +10,14 @@ author:
   email: "mabs2026workshop@gmail.com"
 
 header_pages:
-
+   - committees.md
+   - call_for_papers.md
+   - accepted_papers.md
+   - registration.md
+   - program.md
+   - invited.md
+   - postproceedings.md
+   - mabs_series.md
   
 # Build settings
 theme: minima
