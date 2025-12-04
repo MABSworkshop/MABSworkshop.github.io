@@ -1,23 +1,23 @@
-title: MABS 2025 - The 26th International Workshop on Multi-Agent-Based Simulation
-email: mabs2025workshop@gmail.com
+title: MABS 2026 - The 27th International Workshop on Multi-Agent-Based Simulation
+email: mabs2026workshop@gmail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mabsworkshop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
-  name: MABS2025
-  email: "mabs2025workshop@gmail.com"
+  name: MABS2026
+  email: "mabs2026workshop@gmail.com"
 
 header_pages:
-   - committees.md
-   - call_for_papers.md
-   - accepted_papers.md
-   - registration.md
-   - program.md
+   # - committees.md
+   # - call_for_papers.md
+   # - accepted_papers.md
+   # - registration.md
+   # - program.md
 #  - invited.md
-   - postproceedings.md
-   - mabs_series.md
+   # - postproceedings.md
+   # - mabs_series.md
   
 # Build settings
 theme: minima
