@@ -77,6 +77,10 @@ Submissions are **limited to 12 pages including references** formatted according
 
 All contributions will be peer-reviewed by at least two independent PC members. The evaluation criteria of contributions will be based on originality, quality, clarity, and its relevance to the workshop.
 
+Submission is **single-blind**, i.e., authors can include their names, affiliations, and other identifying information in the paper.
+
+**Supplementary material** is allowed after the 12 pages of the main paper, in the same pdf. This can include external links, e.g., to GitHub repositories for code. However, reviewers are not required to look at the supplementary material, so please make your main paper as self-contained as possible.
+
 ## Publication
 Following the tradition of the previous MABS workshops, we intend to publish the accepted papers, after a further reviewing process, in the [Springer Multi-Agent-Based Simulation book series, LNAI](https://link.springer.com/conference/mabs){:target="_blank"}.
 
