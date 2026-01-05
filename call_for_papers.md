@@ -5,7 +5,7 @@ permalink: /cfp/
 ---
 We are excited to announce the Call for Papers for the 27th International Workshop on Multi-Agent-Based Simulation (MABS 2026), a pivotal event that brings together leading researchers from Multi-Agent Systems (MAS) engineering and the social, economic, and organisational sciences.
 
-MABS 2026 is part of the [AAMAS 2026 conference](https://cyprusconferences.org/aamas2026/) taking place in Paphos, Cyprus from the 25th to the 29rd of May, 2026.
+MABS 2026 is part of the [AAMAS 2026 conference](https://cyprusconferences.org/aamas2026/) taking place in Paphos, Cyprus from the 25th to the 29rd of May, 2026. The MABS workshop will be held on May 26, 2026.
 
 MABS 2026 continues its tradition of fostering cross-fertilisation and innovation in MAS engineering and complex social and sociotechnical systems modeling. The workshop encourages submissions in areas such as simulation methodology and tools, simulation of social and intelligent behaviour, diverse applications, and simulation analytics. 
 
@@ -93,7 +93,7 @@ Mar 30: Deadline for revised submissions
 
 Apr 8: Preliminary program and online article availability
 
-May 25/26: Workshop event
+May 26: Workshop event
 
 Aug-Dec: Preparation of Post-Proceedings for Springer LNAI
 
