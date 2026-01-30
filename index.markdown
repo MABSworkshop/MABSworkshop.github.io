@@ -11,7 +11,7 @@ The excellent quality level of this workshop has been recognized since its incep
 MABS 2026 continues its tradition of fostering cross-fertilisation and innovation in MAS engineering and complex social and sociotechnical systems modeling. The workshop encourages submissions in areas such as simulation methodology and tools, simulation of social and intelligent behaviour, diverse applications, and simulation analytics. See the detailed call for papers from the link above.
 
 ## Important Dates (2026)
-+ Feb 4: Submission deadline (extended)
++ ~~Feb 4~~ Feb 11: Submission deadline (extended)
 + Mar 3: Review deadline
 + Mar 20: Acceptance/rejection notifications
 + Mar 30: Deadline for revised submissions
