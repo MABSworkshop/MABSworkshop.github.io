@@ -85,7 +85,7 @@ Submission is **single-blind**, i.e., authors can include their names, affiliati
 Following the tradition of the previous MABS workshops, we intend to publish the accepted papers, after a further reviewing process, in the [Springer Multi-Agent-Based Simulation book series, LNAI](https://link.springer.com/conference/mabs){:target="_blank"}.
 
 ## Important Dates
-Feb 4, 2026: Submission deadline (extended)
+~~Feb 4~~ Feb 11, 2026: Submission deadline (extended)
 
 Mar 20: Acceptance/rejection notifications
 
