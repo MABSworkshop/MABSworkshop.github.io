@@ -10,9 +10,9 @@ permalink: /program/
 
 | Time            | Event                                                                 |
 |-----------------|-----------------------------------------------------------------------|
-| 8:30 AM - 8:50 AM | Arrival and Registration                                              |
-| 8:50 AM - 9:00 AM | General Introduction Workshop Organizers |
-| 9:00 AM - 10:00 AM | Keynote Talk by Jacob Crandall - 'Toward agent-based simulations of complex human societies’|
+| 8:30 - 8:50 AM | Arrival and Registration                                              |
+| 8:50 - 9:00 AM | General Introduction Workshop Organizers |
+| 9:00 - 10:00 AM | 'Toward agent-based simulations of complex human societies’<br />Keynote Talk by Jacob Crandall, Brigham Young University|
 
 
 ### Abstract:
