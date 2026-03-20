@@ -6,9 +6,6 @@ permalink: /mabs_series/
 
 MABS has been held every two years from 1998 to 2002, and annually since then, in conjunction with the International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS). The MABS workshop series aims to bring together researchers from artificial intelligence, computer science and social sciences interested in using multi-agent models and technology in social simulation.
 
-## The next MABS Workshop
-- [MABS 2026](https://mabsworkshop.github.io)
-
 ## Previous MABS Workshops
 - [MABS 2025](https://mabsworkshop.github.io/mabs2025/)
 - [MABS 2024](https://mabsworkshop.github.io/mabs2024/)
