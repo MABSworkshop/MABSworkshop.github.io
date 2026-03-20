@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Multi-Agent-Based Simulation (MABS) Workshop Series
+title: MABS Series
 permalink: /mabs_series/
 ---
 
