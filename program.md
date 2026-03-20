@@ -21,7 +21,7 @@ Artificial intelligence (interpreted broadly) has the potential to help us impro
 ### Bio:
 
 <div style="display: flex; align-items: flex-start; gap: 1rem;">
-  <img src="assets/img/jacob.jpg" alt="Jacob Crandall" style="width: 120px; height: auto; object-fit: cover; border-radius: 6px;" />
+  <img src="assets/img/jacob.png" alt="Jacob Crandall" style="width: 120px; height: auto; object-fit: cover; border-radius: 6px;" />
   <p>
     Jacob received the B.S., M.S., and Ph.D. degrees in Computer Science from Brigham Young University (BYU) in 2001, 2004, and 2006, respectively.  From 2006 to 2008, he was a Postdoctoral Associate in the Department of Aeronautics and Astronautics at the Massachusetts Institution of Technology (MIT).  He then took a faculty position with the Masdar Institute of Science and Technology, a new (at the time) graduate-research university in Abu Dhabi, UAE formed in collaboration with MIT.  Jacob returned to the BYU Computer Science Department as a faculty member in 2016.  His research includes work in human-machine cooperation, multi-agent systems, agent-based simulations, artificial intelligence, and robotics.  When not engrossed in research, Jacob enjoys spending time with his wife and four children.    
   </p>
