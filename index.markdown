@@ -14,10 +14,10 @@ MABS 2026 continues its tradition of fostering cross-fertilisation and innovatio
 + ~~Feb 4~~ Feb 11: Submission deadline (extended)
 + Mar 3: Review deadline
 + Mar 20: Acceptance/rejection notifications
-+ Mar 30: Deadline for revised submissions
 + Apr 8: Preliminary program and online article availability
 + May 26: Workshop event
-+ Aug-Dec: Preparation of Post-Proceedings for Springer LNAI
++ Jun 30: Deadline for revised submissions
++ Jul-Sep: Preparation of Post-Proceedings for Springer LNAI
 
 
 ## Program chairs
