@@ -61,7 +61,7 @@ Artificial intelligence (interpreted broadly) has the potential to help us impro
 
 | Time            | Event                    |
 |-----------------|--------------------------|
-| 3:45 PM - 4:30 PM | Coffee Break             |
+| 3:30 PM - 4:00 PM | Coffee Break             |
 
 
 
