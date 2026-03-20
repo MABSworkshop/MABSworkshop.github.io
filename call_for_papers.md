@@ -89,13 +89,13 @@ Following the tradition of the previous MABS workshops, we intend to publish the
 
 Mar 20: Acceptance/rejection notifications
 
-Mar 30: Deadline for revised submissions
-
 Apr 8: Preliminary program and online article availability
 
 May 26: Workshop event
 
-Aug-Dec: Preparation of Post-Proceedings for Springer LNAI
+Jun 30: Deadline for revised submissions
+
+Jul-Sep: Preparation of Post-Proceedings for Springer LNAI
 
 ## Submission Page
 [MABS OpenReview](https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/MABS)
