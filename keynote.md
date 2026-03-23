@@ -15,6 +15,7 @@ permalink: /keynote/
   </p>
 </div>
 
+<br>
 
 ### Abstract:
 Artificial intelligence (interpreted broadly) has the potential to help us improve human societies.    Such improvements can come from understanding important (and interconnected) social phenomena and challenges, including poverty, loneliness, bullying, the rise and fall of institutions, and the prosperity and stability of nations.  Understanding these and other phenomena and challenges of human societies requires us to learn and model how people and groups behave in complex systems.  In this talk, I will present my research group’s (ongoing) work in modeling and understanding complex human societies through agent-based simulations.  In so doing, I will detail our work in (1) developing models and abstractions designed to adequately capture the salient “social physics” of complex human societies, (2) encoding human behavior into agents that act in these societal models, and (3) observing the outputs of the resulting simulations.  My talk will highlight both successes and challenges that we have experienced while conducting this research.
