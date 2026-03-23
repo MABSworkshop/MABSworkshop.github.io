@@ -11,7 +11,7 @@ permalink: /keynote/
 <div style="display: flex; align-items: flex-start; gap: 1rem;">
   <img src="/assets/img/jacob.png" alt="Jacob Crandall" style="width: 120px; height: auto; object-fit: cover; border-radius: 6px;" />
   <p>
-    Jacob Crandall, Brigham Young University|
+    Jacob Crandall, Brigham Young University
   </p>
 </div>
 
