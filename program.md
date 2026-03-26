@@ -11,7 +11,7 @@ permalink: /program/
 | Time            | Event                                                                 |
 |-----------------|-----------------------------------------------------------------------|
 | 8:30 -- 8:50 AM | Arrival and Registration                                              |
-| 8:50 -- 9:00 AM | General Introduction Workshop Organizers |
+| 8:50 -- 9:00 AM | General Introduction<br />_Workshop Organizers_ |
 
 ## First Session: MABS of social dynamics
 
