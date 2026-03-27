@@ -17,7 +17,7 @@ permalink: /program/
 
 | Time            | Event                                                                 |
 |-----------------|-----------------------------------------------------------------------|
-| 9:00 -- 10:00 AM | Endogenous Social Identity in Agent-Based Economics: From Micro-Categorisation to Macro-Firm Structure<br />_Alejandra López de Aberasturi Gómez, Daniel Jarne Ornia, Arnau Quera-Bofarull, Jordi Sabater-Mir, Carles Sierra_ |
+| 9:00 -- 9:20 AM | Endogenous Social Identity in Agent-Based Economics: From Micro-Categorisation to Macro-Firm Structure<br />_Alejandra López de Aberasturi Gómez, Daniel Jarne Ornia, Arnau Quera-Bofarull, Jordi Sabater-Mir, Carles Sierra_ |
 | 9:20 -- 9:40 AM | Adaptive Self-Preservation in Flocking Systems: How Dynamic Risk Thresholds Shape Collective Safety<br />_Jiaman Li, William G. Kennedy_ |
 | 9:40 -- 10:00 AM | Impact of Network Rewiring on Opinion and Belief Echo Chambers<br />_Hiro Kataoka, Jérôme Euzenat, Koji Hasebe_ |
 | 10:00 -- 10:20 AM | Social Norm Dynamics in a Behavioral Epidemic Model<br />_Christos Charalambous_ |
