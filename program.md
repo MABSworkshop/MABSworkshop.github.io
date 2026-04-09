@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 ---
 
-## Preliminary Program - Monday, May 26th, 2026
+## Preliminary Program - Tuesday, May 26th, 2026
 
 ## Welcome Session
 
